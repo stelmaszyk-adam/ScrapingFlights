@@ -1,0 +1,2287 @@
+AAR to TXL, 15/9
+Departure: 19:55, Arrival: 21:10, Cost: £33 , Brand: easyJet
+Departure: 15:50, Arrival: 09:00, Cost: £117 , Brand: SAS
+Departure: 15:50, Arrival: 15:45, Cost: £125 , Brand: SAS
+Departure: 06:45, Arrival: 10:10, Cost: £139 , Brand: Multiple Airlines
+Departure: 10:10, Arrival: 09:00, Cost: £144 , Brand: SAS
+Departure: 15:50, Arrival: 20:50, Cost: £151 , Brand: Multiple Airlines
+Departure: 10:10, Arrival: 15:50, Cost: £151 , Brand: Multiple Airlines
+Departure: 15:50, Arrival: 07:45, Cost: £155 , Brand: SWISS
+Departure: 15:50, Arrival: 08:45, Cost: £155 , Brand: SWISS
+Departure: 06:45, Arrival: 07:45, Cost: £155 , Brand: SWISS
+Departure: 06:45, Arrival: 07:45, Cost: £155 , Brand: SWISS
+Departure: 06:45, Arrival: 08:45, Cost: £155 , Brand: SWISS
+Departure: 06:45, Arrival: 08:45, Cost: £155 , Brand: SWISS
+Departure: 10:10, Arrival: 10:45, Cost: £158 , Brand: SAS
+Departure: 15:50, Arrival: 09:30, Cost: £161 , Brand: SAS
+ABZ to GVA, 15/9
+Departure: 15:15, Arrival: 10:25, Cost: £103 , Brand: easyJet
+Departure: 21:10, Arrival: 10:00, Cost: £106 , Brand: Multiple Airlines
+Departure: 16:40, Arrival: 22:25, Cost: £134 , Brand: British Airways
+Departure: 14:50, Arrival: 22:25, Cost: £134 , Brand: British Airways
+Departure: 14:50, Arrival: 20:25, Cost: £143 , Brand: British Airways
+Departure: 16:40, Arrival: 09:20, Cost: £143 , Brand: British Airways
+Departure: 07:50, Arrival: 22:25, Cost: £164 , Brand: British Airways
+Departure: 07:50, Arrival: 20:25, Cost: £173 , Brand: British Airways
+Departure: 06:00, Arrival: 11:10, Cost: £174 , Brand: Air France
+Departure: 13:45, Arrival: 19:40, Cost: £174 , Brand: Air France
+Departure: 06:00, Arrival: 12:15, Cost: £174 , Brand: Air France
+Departure: 06:00, Arrival: 13:50, Cost: £174 , Brand: Air France
+Departure: 13:45, Arrival: 21:55, Cost: £174 , Brand: Air France
+Departure: 06:00, Arrival: 19:40, Cost: £174 , Brand: Air France
+Departure: 06:40, Arrival: 15:20, Cost: £178 , Brand: Multiple Airlines
+ABZ to LGW, 15/9
+Departure: None, Arrival: 16:55, Cost: £49 
+Departure: None, Arrival: 15:25, Cost: £269 
+Departure: None, Arrival: 15:25, Cost: £280 
+Departure: None, Arrival: 15:25, Cost: £281 
+Departure: None, Arrival: 14:05, Cost: £283 
+Departure: None, Arrival: 15:25, Cost: £291 
+Departure: None, Arrival: 18:15, Cost: £323 
+Departure: None, Arrival: 13:45, Cost: £352 
+Departure: None, Arrival: 16:40, Cost: £361 
+Departure: None, Arrival: 21:40, Cost: £384 
+Departure: None, Arrival: 22:30, Cost: £422 
+Departure: None, Arrival: 14:35, Cost: £1225 
+Departure: None
+Departure: None
+Departure: None
+ABZ to LTN, 15/9
+Departure: None, Arrival: 07:45, Cost: £153 
+Departure: None, Arrival: 19:05, Cost: £163 
+Departure: None, Arrival: 19:40, Cost: £181 
+Departure: None, Arrival: 17:15, Cost: £192 
+Departure: None, Arrival: 15:20, Cost: £251 
+Departure: None, Arrival: 23:35, Cost: £267 
+Departure: None, Arrival: 15:35, Cost: £276 
+Departure: None, Arrival: 22:15, Cost: £279 
+Departure: None, Arrival: 19:05, Cost: £290 
+Departure: None, Arrival: 22:15, Cost: £298 
+Departure: None, Arrival: 23:35, Cost: £325 
+Departure: None, Arrival: 19:15, Cost: £346 
+Departure: None, Arrival: 14:15, Cost: £369 
+Departure: None, Arrival: 19:05, Cost: £425 
+Departure: None, Arrival: 15:20, Cost: £465 
+Book now: ACE to AMS, 15/9
+Departure: 11:05, Arrival: 21:40, Cost: £94 , Brand: Ryanair
+Departure: 11:10, Arrival: 21:40, Cost: £125 , Brand: Multiple Airlines
+Departure: 14:05, Arrival: 09:30, Cost: £143 , Brand: Multiple Airlines
+Departure: 19:55, Arrival: 10:10, Cost: £144 , Brand: Multiple Airlines
+Departure: 10:30, Arrival: 18:25, Cost: £150 , Brand: easyJet
+Departure: 17:40, Arrival: 09:30, Cost: £155 , Brand: Multiple Airlines
+Departure: 12:15, Arrival: 08:55, Cost: £157 , Brand: Multiple Airlines
+Departure: 22:10, Arrival: 19:15, Cost: £157 , Brand: Multiple Airlines
+Departure: 19:55, Arrival: 15:05, Cost: £158 , Brand: Multiple Airlines
+Departure: 18:55, Arrival: 08:50, Cost: £172 , Brand: Multiple Airlines
+Departure: 14:05, Arrival: 00:30, Cost: £176 , Brand: Multiple Airlines
+Departure: 14:05, Arrival: 10:10, Cost: £184 , Brand: Multiple Airlines
+Departure: 07:25, Arrival: 19:55, Cost: £188 , Brand: Multiple Airlines
+Departure: 16:25, Arrival: 00:30, Cost: £189 , Brand: Multiple Airlines
+Departure: 20:50, Arrival: 11:30, Cost: £189 , Brand: Multiple Airlines
+ACE to BFS, 15/9
+Departure: None, Arrival: 10:40, Cost: £111 
+Departure: None, Arrival: 10:40, Cost: £124 
+Departure: None, Arrival: 00:50, Cost: £135 
+Departure: None, Arrival: 13:10, Cost: £159 
+Departure: None, Arrival: 11:25, Cost: £175 
+Departure: None, Arrival: 10:55, Cost: £179 
+Departure: None, Arrival: 23:30, Cost: £196 
+Departure: None, Arrival: 23:50, Cost: £196 
+Departure: None, Arrival: 21:05, Cost: £205 
+Departure: None, Arrival: 23:30, Cost: £210 
+Departure: None, Arrival: 23:50, Cost: £216 
+Departure: None, Arrival: 23:15, Cost: £218 
+Departure: None, Arrival: 15:05, Cost: £227 
+Departure: None, Arrival: 23:50, Cost: £230 
+Departure: None, Arrival: 12:55, Cost: £230 
+ACE to BRS, 15/9
+Departure: 12:15, Arrival: 16:10, Cost: £61 , Brand: Ryanair
+Departure: 11:10, Arrival: 15:00, Cost: £71 , Brand: easyJet
+Departure: 11:05, Arrival: 20:45, Cost: £91 , Brand: Ryanair
+Departure: 14:05, Arrival: 22:55, Cost: £167 , Brand: Multiple Airlines
+Departure: 15:15, Arrival: 22:55, Cost: £175 , Brand: Multiple Airlines
+Departure: 12:35, Arrival: 20:45, Cost: £188 , Brand: Multiple Airlines
+Departure: 17:40, Arrival: 07:45, Cost: £188 , Brand: Multiple Airlines
+Departure: 22:10, Arrival: 10:40, Cost: £206 , Brand: Multiple Airlines
+Departure: 20:05, Arrival: 07:45, Cost: £225 , Brand: Aer Lingus
+Departure: 21:55, Arrival: 11:30, Cost: £250 , Brand: Multiple Airlines
+Departure: 21:55, Arrival: 12:35, Cost: £275 , Brand: Multiple Airlines
+Departure: 22:10, Arrival: 13:00, Cost: £280 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 22:50, Cost: £367 , Brand: Multiple Airlines
+Departure: 11:20, Arrival: 22:50, Cost: £399 , Brand: Multiple Airlines
+Departure: 20:05, Arrival: 07:45, Cost: £457 , Brand: Multiple Airlines
+ACE to BSL, 15/9
+Departure: 10:30, Arrival: 15:40, Cost: £76 , Brand: easyJet
+Departure: 11:20, Arrival: 18:35, Cost: £100 , Brand: Iberia
+Departure: 19:55, Arrival: 09:50, Cost: £120 , Brand: Ryanair
+Departure: 22:10, Arrival: 06:00, Cost: £152 , Brand: Multiple Airlines
+Departure: 14:05, Arrival: 06:00, Cost: £152 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 18:35, Cost: £190 , Brand: Iberia
+Departure: 14:05, Arrival: 00:00, Cost: £199 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 18:35, Cost: £212 , Brand: Multiple Airlines
+Departure: 08:15, Arrival: 18:35, Cost: £212 , Brand: Multiple Airlines
+Departure: 21:30, Arrival: 14:30, Cost: £218 , Brand: easyJet
+Departure: 21:15, Arrival: 12:30, Cost: £267 , Brand: Multiple Airlines
+Departure: 11:20, Arrival: 22:55, Cost: £288 , Brand: Multiple Airlines
+Departure: 11:20, Arrival: 22:55, Cost: £288 , Brand: Multiple Airlines
+Departure: 12:40, Arrival: 22:00, Cost: £313 , Brand: Multiple Airlines
+Departure: 10:50, Arrival: 20:25, Cost: £360 , Brand: Multiple Airlines
+ACE to CDG, 15/9
+Departure: 11:05, Arrival: 15:30, Cost: £134 , Brand: Multiple Airlines
+Departure: 11:05, Arrival: 23:25, Cost: £150 , Brand: Multiple Airlines
+Departure: 18:55, Arrival: 15:20, Cost: £178 , Brand: Multiple Airlines
+Departure: 14:05, Arrival: 11:05, Cost: £179 , Brand: Multiple Airlines
+Departure: 14:05, Arrival: 11:05, Cost: £189 , Brand: Multiple Airlines
+Departure: 20:30, Arrival: 15:45, Cost: £190 , Brand: Multiple Airlines
+Departure: 22:10, Arrival: 15:30, Cost: £192 , Brand: Multiple Airlines
+Departure: 22:10, Arrival: 16:20, Cost: £196 , Brand: Multiple Airlines
+Departure: 13:40, Arrival: 23:30, Cost: £199 , Brand: Iberia
+Departure: 11:20, Arrival: 23:30, Cost: £199 , Brand: Iberia
+Departure: 20:45, Arrival: 15:30, Cost: £202 , Brand: Jet2
+Departure: 10:00, Arrival: 23:30, Cost: £205 , Brand: Multiple Airlines
+Departure: 09:30, Arrival: 23:30, Cost: £205 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 23:30, Cost: £205 , Brand: Multiple Airlines
+Departure: 08:15, Arrival: 23:30, Cost: £205 , Brand: Multiple Airlines
+ACE to LGW, 15/9
+Departure: None, Arrival: 20:55, Cost: £93 
+Departure: None, Arrival: 01:25, Cost: £139 
+Departure: None, Arrival: 22:50, Cost: £153 
+Departure: None, Arrival: 22:50, Cost: £192 
+Departure: None, Arrival: 10:10, Cost: £209 
+Departure: None, Arrival: 11:25, Cost: £244 
+Departure: None, Arrival: 09:00, Cost: £244 
+Departure: None, Arrival: 09:00, Cost: £251 
+Departure: None, Arrival: 10:10, Cost: £259 
+Departure: None, Arrival: 08:30, Cost: £307 
+Departure: None, Arrival: 19:40, Cost: £307 
+Departure: None, Arrival: 18:45, Cost: £331 
+Departure: None, Arrival: 20:15, Cost: £340 
+Departure: None, Arrival: 16:20, Cost: £387 
+Departure: None, Arrival: 16:20, Cost: £390 
+ACE to LPL, 15/9
+Departure: 11:05, Arrival: 21:50, Cost: £87 , Brand: Ryanair
+Departure: 11:10, Arrival: 21:50, Cost: £119 , Brand: Multiple Airlines
+Departure: 18:55, Arrival: 07:40, Cost: £123 , Brand: Ryanair
+Departure: 11:05, Arrival: 19:00, Cost: £134 , Brand: Ryanair
+Departure: 12:35, Arrival: 21:50, Cost: £188 , Brand: Multiple Airlines
+Departure: 07:05, Arrival: 16:30, Cost: £204 , Brand: Multiple Airlines
+Departure: 12:15, Arrival: 01:10, Cost: £206 , Brand: Multiple Airlines
+Departure: 20:05, Arrival: 08:05, Cost: £208 , Brand: Multiple Airlines
+Departure: 11:00, Arrival: 23:45, Cost: £210 , Brand: Multiple Airlines
+Departure: 10:30, Arrival: 23:45, Cost: £225 , Brand: Multiple Airlines
+Departure: 12:35, Arrival: 19:00, Cost: £234 , Brand: Multiple Airlines
+Departure: 20:20, Arrival: 09:10, Cost: £264 , Brand: Multiple Airlines
+Departure: 21:55, Arrival: 02:00, Cost: £274 , Brand: easyJet
+Departure: 21:55, Arrival: 12:05, Cost: £276 , Brand: Multiple Airlines
+Departure: 12:50, Arrival: 01:10, Cost: £281 , Brand: Multiple Airlines
+Book now: ACE to LTN, 15/9
+Departure: None, Arrival: 23:15, Cost: £90 
+Departure: None, Arrival: 23:15, Cost: £121 
+Departure: None, Arrival: 21:20, Cost: £153 
+Departure: None, Arrival: 23:15, Cost: £190 
+Departure: None, Arrival: 15:45, Cost: £190 
+Departure: None, Arrival: 10:55, Cost: £208 
+Departure: None, Arrival: 19:40, Cost: £212 
+Departure: None, Arrival: 16:35, Cost: £214 
+Departure: None, Arrival: 16:35, Cost: £232 
+Departure: None, Arrival: 01:15, Cost: £244 
+Departure: None, Arrival: 14:30, Cost: £259 
+Departure: None, Arrival: 09:55, Cost: £268 
+Departure: None, Arrival: 22:45, Cost: £284 
+Departure: None, Arrival: 10:55, Cost: £284 
+Departure: None, Arrival: 18:50, Cost: £298 
+ACE to MXP, 15/9
+Departure: 14:05, Arrival: 19:50, Cost: £114 , Brand: Multiple Airlines
+Departure: 19:55, Arrival: 11:40, Cost: £141 , Brand: Ryanair
+Departure: 10:35, Arrival: 22:10, Cost: £198 , Brand: Multiple Airlines
+Departure: 11:05, Arrival: 22:55, Cost: £210 , Brand: Ryanair
+Departure: 21:30, Arrival: 12:00, Cost: £213 , Brand: easyJet
+Departure: 11:10, Arrival: 23:15, Cost: £230 , Brand: easyJet
+Departure: 11:05, Arrival: 21:50, Cost: £238 , Brand: Multiple Airlines
+Departure: 11:20, Arrival: 18:05, Cost: £244 , Brand: Iberia
+Departure: 08:45, Arrival: 18:05, Cost: £274 , Brand: Multiple Airlines
+Departure: 08:15, Arrival: 18:05, Cost: £274 , Brand: Multiple Airlines
+Departure: 16:00, Arrival: 08:25, Cost: £284 , Brand: Multiple Airlines
+Departure: 12:40, Arrival: 23:00, Cost: £331 , Brand: Multiple Airlines
+Departure: 12:35, Arrival: 21:50, Cost: £337 , Brand: Aer Lingus
+Departure: 20:00, Arrival: 00:55, Cost: £351 , Brand: easyJet
+Departure: 17:25, Arrival: 09:45, Cost: £382 , Brand: Multiple Airlines
+ACE to SEN, 15/9
+Departure: 11:05, Arrival: 22:00, Cost: £104 , Brand: Multiple Airlines
+Departure: 11:10, Arrival: 22:00, Cost: £135 , Brand: Multiple Airlines
+Departure: 17:40, Arrival: 13:30, Cost: £194 , Brand: Multiple Airlines
+Departure: 12:35, Arrival: 22:00, Cost: £204 , Brand: Multiple Airlines
+Departure: 20:30, Arrival: 13:50, Cost: £208 , Brand: Multiple Airlines
+Departure: 22:10, Arrival: 13:50, Cost: £298 , Brand: Multiple Airlines
+Departure: 17:20, Arrival: 12:20, Cost: £314 , Brand: Multiple Airlines
+Departure: 21:55, Arrival: 12:20, Cost: £322 , Brand: Multiple Airlines
+Departure: 22:10, Arrival: 17:20, Cost: £336 , Brand: Multiple Airlines
+Departure: 22:10, Arrival: 17:20, Cost: £340 , Brand: Multiple Airlines
+Departure: 20:05, Arrival: 13:50, Cost: £363 , Brand: Multiple Airlines
+Departure: 22:10, Arrival: 16:20, Cost: £363 , Brand: Multiple Airlines
+Departure: 20:05, Arrival: 13:50, Cost: £433 , Brand: Multiple Airlines
+Departure: 22:10, Arrival: 12:50, Cost: £496 , Brand: Multiple Airlines
+Departure: 12:35, Arrival: 22:00, Cost: £767 , Brand: Aer Lingus
+ADB to LGW, 15/9
+Departure: 07:40, Arrival: 22:25, Cost: £152 , Brand: Multiple Airlines
+Departure: 20:20, Arrival: 22:20, Cost: £157 , Brand: Thomas Cook Airlines
+Departure: 20:45, Arrival: 22:45, Cost: £159 , Brand: easyJet
+Departure: 12:05, Arrival: 17:35, Cost: £174 , Brand: Multiple Airlines
+Departure: 07:40, Arrival: 16:10, Cost: £190 , Brand: Multiple Airlines
+Departure: 14:45, Arrival: 04:00, Cost: £201 , Brand: Multiple Airlines
+Departure: 16:25, Arrival: 04:00, Cost: £202 , Brand: Multiple Airlines
+Departure: 07:15, Arrival: 12:50, Cost: £206 , Brand: Multiple Airlines
+Departure: 07:30, Arrival: 15:25, Cost: £269 , Brand: Multiple Airlines
+Departure: 04:00, Arrival: 10:45, Cost: £280 , Brand: Multiple Airlines
+Departure: 08:00, Arrival: 17:05, Cost: £280 , Brand: Multiple Airlines
+Departure: 20:50, Arrival: 10:50, Cost: £281 , Brand: Turkish Airlines
+Departure: 22:50, Arrival: 08:05, Cost: £289 , Brand: Multiple Airlines
+Departure: 11:10, Arrival: 16:00, Cost: £295 , Brand: Turkish Airlines
+Departure: 06:50, Arrival: 16:00, Cost: £295 , Brand: Turkish Airlines
+AGA to LGW, 15/9
+Departure: None, Arrival: 08:05, Cost: £126 
+Departure: None, Arrival: 23:25, Cost: £162 
+Departure: None, Arrival: 07:20, Cost: £220 
+Departure: None, Arrival: 20:55, Cost: £243 
+Departure: None, Arrival: 18:45, Cost: £255 
+Departure: None, Arrival: 15:25, Cost: £273 
+Departure: None, Arrival: 15:25, Cost: £273 
+Departure: None, Arrival: 15:25, Cost: £273 
+Departure: None, Arrival: 10:50, Cost: £273 
+Departure: None, Arrival: 16:15, Cost: £286 
+Departure: None, Arrival: 15:25, Cost: £300 
+Departure: None, Arrival: 19:10, Cost: £325 
+Departure: None, Arrival: 22:10, Cost: £361 
+Departure: None, Arrival: 12:50, Cost: £387 
+Departure: None, Arrival: 21:40, Cost: £410 
+AGA to MAN, 15/9
+Departure: None, Arrival: 21:40, Cost: £123 
+Departure: None, Arrival: 22:35, Cost: £123 
+Departure: None, Arrival: 10:20, Cost: £225 
+Departure: None, Arrival: 15:45, Cost: £243 
+Departure: None, Arrival: 16:00, Cost: £308 
+Departure: None, Arrival: 16:00, Cost: £308 
+Departure: None, Arrival: 16:00, Cost: £308 
+Departure: None, Arrival: 16:00, Cost: £308 
+Departure: None, Arrival: 23:00, Cost: £318 
+Departure: None, Arrival: 18:40, Cost: £321 
+Departure: None, Arrival: 23:00, Cost: £324 
+Departure: None, Arrival: 22:45, Cost: £334 
+Departure: None, Arrival: 18:30, Cost: £335 
+Departure: None, Arrival: 10:35, Cost: £336 
+Departure: None, Arrival: 22:45, Cost: £343 
+AGP to AMS, 15/9
+Departure: 06:30, Arrival: 09:35, Cost: £59 , Brand: Vueling
+Departure: 20:25, Arrival: 23:35, Cost: £60 , Brand: KLM
+Departure: 11:25, Arrival: 14:40, Cost: £77 , Brand: easyJet
+Departure: 08:45, Arrival: 11:50, Cost: £78 , Brand: Transavia
+Departure: 07:30, Arrival: 18:10, Cost: £88 , Brand: Ryanair
+Departure: 16:50, Arrival: 19:55, Cost: £91 , Brand: KLM
+Departure: 06:30, Arrival: 09:35, Cost: £92 , Brand: Iberia
+Departure: 22:30, Arrival: 01:35, Cost: £95 , Brand: Transavia
+Departure: 22:05, Arrival: 09:30, Cost: £98 , Brand: Ryanair
+Departure: 06:55, Arrival: 18:10, Cost: £102 , Brand: Ryanair
+Departure: 07:30, Arrival: 13:45, Cost: £109 , Brand: Ryanair
+Departure: 16:00, Arrival: 19:00, Cost: £111 , Brand: Ryanair
+Departure: 11:55, Arrival: 21:40, Cost: £111 , Brand: Ryanair
+Departure: 10:40, Arrival: 13:45, Cost: £124 , Brand: Transavia
+Departure: 11:55, Arrival: 18:10, Cost: £137 , Brand: Ryanair
+AGP to BFS, 15/9
+Departure: 21:20, Arrival: 23:30, Cost: £38 , Brand: Ryanair
+Departure: 13:00, Arrival: 15:25, Cost: £65 , Brand: Jet2
+Departure: 22:35, Arrival: 00:50, Cost: £67 , Brand: easyJet
+Departure: 18:45, Arrival: 20:55, Cost: £86 , Brand: Aer Lingus
+Departure: 13:20, Arrival: 15:35, Cost: £98 , Brand: easyJet
+Departure: 07:30, Arrival: 18:05, Cost: £140 , Brand: Multiple Airlines
+Departure: 10:50, Arrival: 19:25, Cost: £157 , Brand: Multiple Airlines
+Departure: 10:50, Arrival: 19:50, Cost: £182 , Brand: Multiple Airlines
+Departure: 12:30, Arrival: 18:05, Cost: £187 , Brand: Multiple Airlines
+Departure: 06:40, Arrival: 16:45, Cost: £208 , Brand: Multiple Airlines
+Departure: 06:35, Arrival: 13:10, Cost: £211 , Brand: Multiple Airlines
+Departure: 10:55, Arrival: 20:10, Cost: £215 , Brand: easyJet
+Departure: 14:30, Arrival: 23:50, Cost: £218 , Brand: Multiple Airlines
+Departure: 06:30, Arrival: 15:00, Cost: £219 , Brand: Multiple Airlines
+Departure: 22:55, Arrival: 11:25, Cost: £222 , Brand: Multiple Airlines
+AGP to BRS, 15/9
+Departure: None, Arrival: 02:45, Cost: £52 
+Departure: None, Arrival: 16:10, Cost: £74 
+Departure: None, Arrival: 16:10, Cost: £80 
+Departure: None, Arrival: 01:30, Cost: £83 
+Departure: None, Arrival: 12:05, Cost: £88 
+Departure: None, Arrival: 19:45, Cost: £90 
+Departure: None, Arrival: 16:10, Cost: £105 
+Departure: None, Arrival: 20:45, Cost: £105 
+Departure: None, Arrival: 18:25, Cost: £122 
+Departure: None, Arrival: 00:25, Cost: £148 
+Departure: None, Arrival: 01:05, Cost: £150 
+Departure: None, Arrival: 21:10, Cost: £161 
+Departure: None, Arrival: 01:05, Cost: £166 
+Departure: None, Arrival: 21:55, Cost: £193 
+Departure: None, Arrival: 23:35, Cost: £197 
+AGP to BSL, 15/9
+Departure: 19:50, Arrival: 22:30, Cost: £86 , Brand: easyJet
+Departure: 10:15, Arrival: 18:00, Cost: £147 , Brand: easyJet
+Departure: 06:00, Arrival: 14:30, Cost: £147 , Brand: Multiple Airlines
+Departure: 13:50, Arrival: 20:25, Cost: £151 , Brand: Multiple Airlines
+Departure: 06:30, Arrival: 16:25, Cost: £157 , Brand: Multiple Airlines
+Departure: 14:30, Arrival: 20:25, Cost: £159 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 16:25, Cost: £165 , Brand: Multiple Airlines
+Departure: 09:20, Arrival: 18:35, Cost: £174 , Brand: Air France
+Departure: 11:10, Arrival: 22:40, Cost: £179 , Brand: Multiple Airlines
+Departure: 06:30, Arrival: 13:50, Cost: £181 , Brand: Multiple Airlines
+Departure: 07:30, Arrival: 16:25, Cost: £181 , Brand: Multiple Airlines
+Departure: 10:50, Arrival: 21:30, Cost: £187 , Brand: easyJet
+Departure: 11:00, Arrival: 18:35, Cost: £193 , Brand: Multiple Airlines
+Departure: 11:05, Arrival: 16:55, Cost: £197 , Brand: Multiple Airlines
+Departure: 13:50, Arrival: 22:55, Cost: £207 , Brand: British Airways
+AGP to CDG, 15/9
+Departure: None, Arrival: 13:30, Cost: £56 
+Departure: None, Arrival: 22:30, Cost: £63 
+Departure: None, Arrival: 16:30, Cost: £65 
+Departure: None, Arrival: 09:10, Cost: £89 
+Departure: None, Arrival: 15:50, Cost: £115 
+Departure: None, Arrival: 22:05, Cost: £115 
+Departure: None, Arrival: 19:25, Cost: £125 
+Departure: None, Arrival: 12:00, Cost: £137 
+Departure: None, Arrival: 20:05, Cost: £149 
+Departure: None, Arrival: 09:40, Cost: £150 
+Departure: None, Arrival: 11:30, Cost: £150 
+Departure: None, Arrival: 22:05, Cost: £152 
+Departure: None, Arrival: 20:05, Cost: £154 
+Departure: None, Arrival: 20:50, Cost: £163 
+Departure: None, Arrival: 18:25, Cost: £183 
+AGP to GLA, 15/9
+Departure: 19:50, Arrival: 22:05, Cost: £38 , Brand: Ryanair
+Departure: 22:05, Arrival: 08:15, Cost: £89 , Brand: Ryanair
+Departure: 10:55, Arrival: 13:15, Cost: £104 , Brand: easyJet
+Departure: 10:25, Arrival: 21:30, Cost: £105 , Brand: Ryanair
+Departure: 11:55, Arrival: 21:30, Cost: £114 , Brand: Ryanair
+Departure: 10:15, Arrival: 18:55, Cost: £128 , Brand: Multiple Airlines
+Departure: 20:25, Arrival: 08:30, Cost: £132 , Brand: KLM
+Departure: 11:55, Arrival: 14:25, Cost: £134 , Brand: Jet2
+Departure: 23:45, Arrival: 09:05, Cost: £146 , Brand: easyJet
+Departure: 16:50, Arrival: 22:10, Cost: £148 , Brand: KLM
+Departure: 22:05, Arrival: 07:55, Cost: £148 , Brand: Multiple Airlines
+Departure: 13:00, Arrival: 19:00, Cost: £163 , Brand: Multiple Airlines
+Departure: 11:55, Arrival: 21:10, Cost: £165 , Brand: Multiple Airlines
+Departure: 10:20, Arrival: 17:30, Cost: £171 , Brand: easyJet
+Departure: 13:25, Arrival: 21:30, Cost: £178 , Brand: Multiple Airlines
+AGP to GVA, 15/9
+Departure: 20:20, Arrival: 22:40, Cost: £73 , Brand: easyJet
+Departure: 09:10, Arrival: 11:30, Cost: £86 , Brand: easyJet
+Departure: 13:05, Arrival: 17:10, Cost: £86 , Brand: SWISS
+Departure: 15:10, Arrival: 21:35, Cost: £86 , Brand: SWISS
+Departure: 15:10, Arrival: 23:25, Cost: £86 , Brand: SWISS
+Departure: 13:05, Arrival: 21:35, Cost: £88 , Brand: SWISS
+Departure: 13:05, Arrival: 23:25, Cost: £88 , Brand: SWISS
+Departure: 13:05, Arrival: 18:35, Cost: £98 , Brand: SWISS
+Departure: 17:35, Arrival: 23:25, Cost: £98 , Brand: SWISS
+Departure: 16:50, Arrival: 22:15, Cost: £130 , Brand: KLM
+Departure: 11:45, Arrival: 19:35, Cost: £132 , Brand: Lufthansa
+Departure: 13:05, Arrival: 22:00, Cost: £133 , Brand: SWISS
+Departure: 13:10, Arrival: 18:00, Cost: £135 , Brand: Lufthansa
+Departure: 13:10, Arrival: 18:45, Cost: £135 , Brand: Lufthansa
+Departure: 09:20, Arrival: 15:25, Cost: £141 , Brand: Multiple Airlines
+AGP to LGW, 15/9
+Departure: 07:30, Arrival: 18:20, Cost: £77 , Brand: Ryanair
+Departure: 07:30, Arrival: 20:55, Cost: £81 , Brand: Ryanair
+Departure: 07:30, Arrival: 17:10, Cost: £83 , Brand: Ryanair
+Departure: 22:05, Arrival: 08:05, Cost: £94 , Brand: Ryanair
+Departure: 11:55, Arrival: 18:20, Cost: £108 , Brand: Ryanair
+Departure: 11:55, Arrival: 20:55, Cost: £108 , Brand: Ryanair
+Departure: 23:25, Arrival: 01:15, Cost: £112 , Brand: British Airways
+Departure: 11:55, Arrival: 17:10, Cost: £114 , Brand: Ryanair
+Departure: 06:40, Arrival: 15:35, Cost: £114 , Brand: Multiple Airlines
+Departure: 21:15, Arrival: 23:05, Cost: £137 , Brand: British Airways
+Departure: 14:45, Arrival: 22:25, Cost: £139 , Brand: Multiple Airlines
+Departure: 23:05, Arrival: 00:50, Cost: £145 , Brand: easyJet
+Departure: 14:30, Arrival: 18:45, Cost: £146 , Brand: Vueling
+Departure: 14:30, Arrival: 18:45, Cost: £146 , Brand: Iberia
+Departure: 06:25, Arrival: 15:25, Cost: £146 , Brand: Multiple Airlines
+AGP to LPL, 15/9
+Departure: None, Arrival: 21:50, Cost: £74 
+Departure: None, Arrival: 07:40, Cost: £84 
+Departure: None, Arrival: 21:50, Cost: £95 
+Departure: None, Arrival: 21:50, Cost: £105 
+Departure: None, Arrival: 08:05, Cost: £111 
+Departure: None, Arrival: 22:45, Cost: £126 
+Departure: None, Arrival: 23:30, Cost: £137 
+Departure: None, Arrival: 01:10, Cost: £147 
+Departure: None, Arrival: 19:00, Cost: £148 
+Departure: None, Arrival: 08:35, Cost: £156 
+Departure: None, Arrival: 22:45, Cost: £157 
+Departure: None, Arrival: 01:10, Cost: £162 
+Departure: None, Arrival: 21:50, Cost: £168 
+Departure: None, Arrival: 07:40, Cost: £174 
+Departure: None, Arrival: 09:10, Cost: £176 
+AGP to LTN, 15/9
+Departure: 07:30, Arrival: 23:15, Cost: £76 , Brand: Ryanair
+Departure: 07:30, Arrival: 17:15, Cost: £87 , Brand: Ryanair
+Departure: 23:45, Arrival: 01:30, Cost: £98 , Brand: easyJet
+Departure: 06:00, Arrival: 15:25, Cost: £101 , Brand: Multiple Airlines
+Departure: 11:55, Arrival: 17:15, Cost: £119 , Brand: Ryanair
+Departure: 06:30, Arrival: 12:20, Cost: £129 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 19:05, Cost: £139 , Brand: Multiple Airlines
+Departure: 11:25, Arrival: 19:05, Cost: £144 , Brand: easyJet
+Departure: 08:45, Arrival: 19:40, Cost: £147 , Brand: Multiple Airlines
+Departure: 11:25, Arrival: 19:40, Cost: £148 , Brand: easyJet
+Departure: 16:40, Arrival: 18:30, Cost: £151 , Brand: easyJet
+Departure: 06:45, Arrival: 15:25, Cost: £164 , Brand: Multiple Airlines
+Departure: 10:25, Arrival: 12:15, Cost: £170 , Brand: easyJet
+Departure: 09:20, Arrival: 17:20, Cost: £170 , Brand: easyJet
+Departure: 14:00, Arrival: 22:15, Cost: £170 , Brand: Multiple Airlines
+AGP to MAN, 15/9
+Departure: 20:15, Arrival: 12:15, Cost: £48 , Brand: Ryanair
+Departure: 10:25, Arrival: 21:40, Cost: £95 , Brand: Ryanair
+Departure: 10:25, Arrival: 22:35, Cost: £95 , Brand: Ryanair
+Departure: 13:00, Arrival: 17:55, Cost: £96 , Brand: Multiple Airlines
+Departure: 22:05, Arrival: 07:35, Cost: £103 , Brand: Ryanair
+Departure: 11:55, Arrival: 21:40, Cost: £105 , Brand: Ryanair
+Departure: 11:55, Arrival: 22:35, Cost: £106 , Brand: Ryanair
+Departure: 07:30, Arrival: 19:10, Cost: £121 , Brand: Multiple Airlines
+Departure: 07:30, Arrival: 17:40, Cost: £145 , Brand: Multiple Airlines
+Departure: 13:20, Arrival: 17:55, Cost: £146 , Brand: Multiple Airlines
+Departure: 06:30, Arrival: 14:50, Cost: £146 , Brand: Multiple Airlines
+Departure: 11:35, Arrival: 18:40, Cost: £148 , Brand: Multiple Airlines
+Departure: 11:55, Arrival: 19:10, Cost: £153 , Brand: Multiple Airlines
+Departure: 10:50, Arrival: 12:55, Cost: £156 , Brand: easyJet
+Departure: 07:30, Arrival: 16:50, Cost: £156 , Brand: Multiple Airlines
+AGP to MXP, 15/9
+Departure: None, Arrival: 11:50, Cost: £86 
+Departure: None, Arrival: 07:50, Cost: £92 
+Departure: None, Arrival: 07:50, Cost: £93 
+Departure: None, Arrival: 07:35, Cost: £100 
+Departure: None, Arrival: 21:55, Cost: £131 
+Departure: None, Arrival: 22:10, Cost: £136 
+Departure: None, Arrival: 23:00, Cost: £138 
+Departure: None, Arrival: 10:15, Cost: £161 
+Departure: None, Arrival: 16:45, Cost: £188 
+Departure: None, Arrival: 23:30, Cost: £190 
+Departure: None, Arrival: 16:10, Cost: £191 
+Departure: None, Arrival: 22:40, Cost: £193 
+Departure: None, Arrival: 17:10, Cost: £198 
+Departure: None, Arrival: 20:25, Cost: £200 
+Departure: None, Arrival: 15:25, Cost: £202 
+AGP to NCL, 15/9
+Departure: 06:55, Arrival: 09:05, Cost: £34 , Brand: Ryanair
+Departure: 22:05, Arrival: 08:45, Cost: £93 , Brand: Ryanair
+Departure: 21:20, Arrival: 15:10, Cost: £100 , Brand: Multiple Airlines
+Departure: 12:15, Arrival: 14:40, Cost: £117 , Brand: Jet2
+Departure: 13:05, Arrival: 15:20, Cost: £125 , Brand: easyJet
+Departure: 22:35, Arrival: 15:10, Cost: £132 , Brand: easyJet
+Departure: 20:25, Arrival: 08:45, Cost: £140 , Brand: KLM
+Departure: 22:30, Arrival: 08:45, Cost: £193 , Brand: KLM
+Departure: 10:40, Arrival: 22:25, Cost: £287 , Brand: KLM
+Departure: 16:50, Arrival: 22:25, Cost: £327 , Brand: KLM
+Departure: 09:15, Arrival: 19:00, Cost: £504 , Brand: British Airways
+Departure: 13:50, Arrival: 23:15, Cost: £528 , Brand: British Airways
+Departure: 20:40, Arrival: 20:25, Cost: £531 , Brand: Brussels Airlines
+Departure: 13:50, Arrival: 22:05, Cost: £599 , Brand: British Airways
+AGP to SEN, 15/9
+Departure: 07:30, Arrival: 22:00, Cost: £90 , Brand: Multiple Airlines
+Departure: 11:55, Arrival: 22:00, Cost: £120 , Brand: Multiple Airlines
+Departure: 12:25, Arrival: 18:25, Cost: £124 , Brand: Multiple Airlines
+Departure: 21:15, Arrival: 23:00, Cost: £135 , Brand: easyJet
+Departure: 13:55, Arrival: 22:50, Cost: £144 , Brand: Multiple Airlines
+Departure: 12:20, Arrival: 22:00, Cost: £180 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 18:05, Cost: £210 , Brand: Multiple Airlines
+Departure: 14:30, Arrival: 22:50, Cost: £215 , Brand: Multiple Airlines
+Departure: 12:30, Arrival: 22:00, Cost: £215 , Brand: Multiple Airlines
+Departure: 13:05, Arrival: 22:00, Cost: £249 , Brand: Multiple Airlines
+Departure: 06:30, Arrival: 16:15, Cost: £258 , Brand: Multiple Airlines
+Departure: 06:35, Arrival: 16:15, Cost: £292 , Brand: Multiple Airlines
+Departure: 13:10, Arrival: 22:00, Cost: £300 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 18:05, Cost: £303 , Brand: Multiple Airlines
+Departure: 09:20, Arrival: 18:05, Cost: £371 , Brand: Multiple Airlines
+AGP to STN, 15/9
+Departure: 06:30, Arrival: 16:05, Cost: £60 , Brand: Ryanair
+Departure: 06:45, Arrival: 23:10, Cost: £60 , Brand: Ryanair
+Departure: 14:50, Arrival: 22:50, Cost: £69 , Brand: Ryanair
+Departure: 07:30, Arrival: 16:50, Cost: £76 , Brand: Ryanair
+Departure: 11:20, Arrival: 20:10, Cost: £80 , Brand: Multiple Airlines
+Departure: 07:30, Arrival: 17:50, Cost: £80 , Brand: Ryanair
+Departure: 20:45, Arrival: 07:45, Cost: £86 , Brand: Ryanair
+Departure: 22:05, Arrival: 07:50, Cost: £95 , Brand: Ryanair
+Departure: 06:45, Arrival: 16:35, Cost: £99 , Brand: Multiple Airlines
+Departure: 13:00, Arrival: 21:20, Cost: £100 , Brand: Multiple Airlines
+Departure: 22:35, Arrival: 08:50, Cost: £106 , Brand: Multiple Airlines
+Departure: 11:55, Arrival: 16:50, Cost: £107 , Brand: Ryanair
+Departure: 11:55, Arrival: 17:50, Cost: £107 , Brand: Ryanair
+Departure: 11:55, Arrival: 20:15, Cost: £107 , Brand: Ryanair
+Departure: 11:55, Arrival: 21:40, Cost: £107 , Brand: Ryanair
+AGP to SXF, 15/9
+Departure: 09:55, Arrival: 13:50, Cost: £64 , Brand: Multiple Airlines
+Departure: 21:20, Arrival: 10:15, Cost: £67 , Brand: Ryanair
+Departure: 10:15, Arrival: 13:50, Cost: £81 , Brand: easyJet
+Departure: 19:50, Arrival: 10:30, Cost: £98 , Brand: Multiple Airlines
+Departure: 19:10, Arrival: 09:45, Cost: £99 , Brand: Ryanair
+Departure: 20:15, Arrival: 09:45, Cost: £103 , Brand: Multiple Airlines
+Departure: 22:35, Arrival: 10:15, Cost: £105 , Brand: Multiple Airlines
+Departure: 12:55, Arrival: 21:50, Cost: £118 , Brand: Ryanair
+Departure: 20:50, Arrival: 10:15, Cost: £124 , Brand: Ryanair
+Departure: 20:45, Arrival: 10:15, Cost: £133 , Brand: Multiple Airlines
+Departure: 14:45, Arrival: 22:05, Cost: £138 , Brand: Multiple Airlines
+Departure: 07:30, Arrival: 18:30, Cost: £140 , Brand: Ryanair
+Departure: 10:55, Arrival: 22:30, Cost: £141 , Brand: Multiple Airlines
+Departure: 20:05, Arrival: 08:20, Cost: £146 , Brand: Norwegian
+Departure: 08:45, Arrival: 19:10, Cost: £153 , Brand: Multiple Airlines
+AGP to TLS, 15/9
+Departure: None, Arrival: 21:05, Cost: £79 
+Departure: None, Arrival: 10:30, Cost: £88 
+Departure: None, Arrival: 21:05, Cost: £151 
+Departure: None, Arrival: 16:50, Cost: £166 
+Departure: None, Arrival: 14:25, Cost: £173 
+Departure: None, Arrival: 20:25, Cost: £177 
+Departure: None, Arrival: 14:25, Cost: £195 
+Departure: None, Arrival: 16:15, Cost: £195 
+Departure: None, Arrival: 15:50, Cost: £204 
+Departure: None, Arrival: 22:25, Cost: £220 
+Departure: None, Arrival: 17:30, Cost: £220 
+Departure: None, Arrival: 22:00, Cost: £220 
+Departure: None, Arrival: 16:15, Cost: £220 
+Departure: None, Arrival: 18:05, Cost: £223 
+Departure: None, Arrival: 22:20, Cost: £224 
+AHO to GVA, 15/9
+Departure: 19:40, Arrival: 10:00, Cost: £159 , Brand: Multiple Airlines
+Departure: 22:15, Arrival: 11:25, Cost: £179 , Brand: Multiple Airlines
+Departure: 06:50, Arrival: 13:05, Cost: £180 , Brand: Multiple Airlines
+Departure: 19:20, Arrival: 08:50, Cost: £190 , Brand: Multiple Airlines
+Departure: 09:40, Arrival: 17:45, Cost: £192 , Brand: Vueling
+Departure: 19:20, Arrival: 08:15, Cost: £215 , Brand: Multiple Airlines
+Departure: 19:40, Arrival: 08:50, Cost: £216 , Brand: Multiple Airlines
+Departure: 09:40, Arrival: 17:45, Cost: £226 , Brand: Iberia
+Departure: 22:15, Arrival: 10:00, Cost: £240 , Brand: Multiple Airlines
+Departure: 19:40, Arrival: 08:15, Cost: £241 , Brand: Multiple Airlines
+Departure: 19:40, Arrival: 08:50, Cost: £250 , Brand: Multiple Airlines
+Departure: 10:40, Arrival: 17:15, Cost: £263 , Brand: Multiple Airlines
+Departure: 06:50, Arrival: 10:55, Cost: £271 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 23:25, Cost: £274 , Brand: Multiple Airlines
+Departure: 10:40, Arrival: 22:25, Cost: £274 , Brand: Multiple Airlines
+AHO to LTN, 15/9
+Departure: 07:30, Arrival: 23:55, Cost: £145 , Brand: Multiple Airlines
+Departure: 14:40, Arrival: 22:50, Cost: £150 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 23:55, Cost: £214 , Brand: Multiple Airlines
+Departure: 19:20, Arrival: 07:35, Cost: £218 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 00:05, Cost: £222 , Brand: Multiple Airlines
+Departure: 06:50, Arrival: 19:05, Cost: £229 , Brand: Multiple Airlines
+Departure: 09:35, Arrival: 19:15, Cost: £234 , Brand: Wizz Air
+Departure: 21:35, Arrival: 07:55, Cost: £234 , Brand: Wizz Air
+Departure: 06:50, Arrival: 19:05, Cost: £236 , Brand: Multiple Airlines
+Departure: 10:40, Arrival: 00:05, Cost: £240 , Brand: Multiple Airlines
+Departure: 13:15, Arrival: 20:05, Cost: £241 , Brand: Wizz Air
+Departure: 06:50, Arrival: 17:20, Cost: £250 , Brand: Multiple Airlines
+Departure: 19:40, Arrival: 00:05, Cost: £252 , Brand: Multiple Airlines
+Departure: 09:40, Arrival: 17:15, Cost: £254 , Brand: Multiple Airlines
+Departure: 21:35, Arrival: 14:10, Cost: £254 , Brand: Wizz Air
+AHO to MXP, 15/9
+Departure: 13:45, Arrival: 14:55, Cost: £160 , Brand: easyJet
+Departure: 06:50, Arrival: 11:05, Cost: £170 , Brand: Multiple Airlines
+Departure: 10:40, Arrival: 14:15, Cost: £205 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 18:25, Cost: £213 , Brand: Multiple Airlines
+Departure: 09:40, Arrival: 13:25, Cost: £273 , Brand: Iberia
+Departure: 06:50, Arrival: 10:20, Cost: £347 , Brand: Multiple Airlines
+Departure: 19:40, Arrival: 22:50, Cost: £454 , Brand: Alitalia
+Departure: 17:30, Arrival: 23:05, Cost: £488 , Brand: Multiple Airlines
+AHO to NAP, 15/9
+Departure: 19:20, Arrival: 20:30, Cost: £50 , Brand: Volotea
+Departure: 19:40, Arrival: 22:35, Cost: £124 , Brand: Alitalia
+Departure: 14:10, Arrival: 18:50, Cost: £124 , Brand: Alitalia
+Departure: 06:50, Arrival: 10:45, Cost: £131 , Brand: Alitalia
+Departure: 06:50, Arrival: 10:40, Cost: £252 , Brand: Multiple Airlines
+Departure: 10:40, Arrival: 14:50, Cost: £282 , Brand: Multiple Airlines
+Departure: 07:05, Arrival: 12:10, Cost: £313 , Brand: Ryanair
+AHO to TXL, 15/9
+Departure: 13:35, Arrival: 15:55, Cost: £85 , Brand: easyJet
+Departure: 06:50, Arrival: 12:35, Cost: £162 , Brand: Multiple Airlines
+Departure: 06:50, Arrival: 16:55, Cost: £171 , Brand: Multiple Airlines
+Departure: 10:40, Arrival: 16:55, Cost: £190 , Brand: Multiple Airlines
+Departure: 13:45, Arrival: 22:20, Cost: £218 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 22:20, Cost: £245 , Brand: Multiple Airlines
+Departure: 09:40, Arrival: 14:15, Cost: £258 , Brand: Iberia
+Departure: 06:50, Arrival: 11:15, Cost: £277 , Brand: Multiple Airlines
+Departure: 06:50, Arrival: 11:15, Cost: £345 , Brand: Alitalia
+Departure: 09:40, Arrival: 19:55, Cost: £453 , Brand: Multiple Airlines
+Departure: 06:50, Arrival: 16:40, Cost: £522 , Brand: Multiple Airlines
+Departure: 06:50, Arrival: 17:05, Cost: £715 , Brand: Air France
+Departure: 12:45, Arrival: 22:25, Cost: £826 , Brand: Multiple Airlines
+Departure: 06:50, Arrival: 16:55, Cost: £826 , Brand: Multiple Airlines
+Departure: 10:40, Arrival: 19:05, Cost: £1058 , Brand: Multiple Airlines
+Book now: AHO to VCE, 15/9
+Departure: 22:15, Arrival: 23:45, Cost: £84 , Brand: easyJet
+Departure: 17:30, Arrival: 18:50, Cost: £115 , Brand: Volotea
+Departure: 14:10, Arrival: 17:05, Cost: £125 , Brand: Alitalia
+Departure: 19:40, Arrival: 22:55, Cost: £125 , Brand: Alitalia
+Departure: 06:50, Arrival: 10:05, Cost: £125 , Brand: Alitalia
+Departure: 10:40, Arrival: 14:35, Cost: £125 , Brand: Alitalia
+Departure: 14:10, Arrival: 18:45, Cost: £125 , Brand: Alitalia
+Departure: 10:40, Arrival: 17:05, Cost: £125 , Brand: Alitalia
+Departure: 09:40, Arrival: 14:45, Cost: £209 , Brand: Vueling
+Departure: 09:40, Arrival: 15:50, Cost: £227 , Brand: Iberia
+Departure: 12:45, Arrival: 18:45, Cost: £430 , Brand: Alitalia
+AJA to BSL, 15/9
+Departure: 15:45, Arrival: 17:10, Cost: £233 , Brand: easyJet
+Departure: 07:00, Arrival: 13:05, Cost: £322 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 13:50, Cost: £331 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 13:40, Cost: £573 , Brand: Multiple Airlines
+Departure: 07:30, Arrival: 13:40, Cost: £574 , Brand: Multiple Airlines
+Departure: 07:30, Arrival: 13:45, Cost: £1520 , Brand: Multiple Airlines
+Departure: 15:45, Arrival: 22:00, Cost: £1579 , Brand: Multiple Airlines
+Departure: 15:45, Arrival: 22:00, Cost: £1579 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 12:35, Cost: £1591 , Brand: Multiple Airlines
+Departure: 15:40, Arrival: 21:45, Cost: £1699 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 13:50, Cost: £1699 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 13:50, Cost: £1708 , Brand: Multiple Airlines
+AJA to CDG, 15/9
+Departure: 14:05, Arrival: 15:55, Cost: £132 , Brand: easyJet
+Departure: 21:00, Arrival: 22:50, Cost: £144 , Brand: easyJet
+Departure: 16:15, Arrival: 18:05, Cost: £197 , Brand: Air Corsica
+Departure: 16:15, Arrival: 18:05, Cost: £207 , Brand: Air France
+Departure: 07:00, Arrival: 11:05, Cost: £252 , Brand: Air France
+Departure: 07:40, Arrival: 13:15, Cost: £266 , Brand: Multiple Airlines
+Departure: 07:45, Arrival: 15:30, Cost: £275 , Brand: Multiple Airlines
+Departure: 10:10, Arrival: 13:50, Cost: £304 , Brand: Air France
+Departure: 07:30, Arrival: 11:15, Cost: £304 , Brand: Air France
+Departure: 07:30, Arrival: 11:45, Cost: £304 , Brand: Air France
+Departure: 15:40, Arrival: 23:25, Cost: £347 , Brand: Alitalia
+Departure: 07:40, Arrival: 11:40, Cost: £360 , Brand: Multiple Airlines
+Departure: 07:45, Arrival: 11:25, Cost: £364 , Brand: Multiple Airlines
+Departure: 22:55, Arrival: 07:05, Cost: £400 , Brand: Multiple Airlines
+Departure: 10:10, Arrival: 18:45, Cost: £431 , Brand: Air Corsica
+AJA to GVA, 15/9
+Departure: 07:40, Arrival: 08:50, Cost: £107 , Brand: easyJet
+Departure: 10:55, Arrival: 15:25, Cost: £262 , Brand: Multiple Airlines
+Departure: 20:45, Arrival: 21:55, Cost: £296 , Brand: easyJet
+Departure: 16:15, Arrival: 21:55, Cost: £309 , Brand: Air France
+AJA to LGW, 15/9
+Departure: 07:40, Arrival: 22:20, Cost: £168 , Brand: easyJet
+Departure: 07:45, Arrival: 14:10, Cost: £180 , Brand: easyJet
+Departure: 07:40, Arrival: 15:05, Cost: £188 , Brand: easyJet
+Departure: 07:40, Arrival: 16:45, Cost: £200 , Brand: easyJet
+Departure: 22:55, Arrival: 07:55, Cost: £225 , Brand: Multiple Airlines
+Departure: 21:00, Arrival: 07:30, Cost: £233 , Brand: easyJet
+Departure: 14:05, Arrival: 20:15, Cost: £234 , Brand: Multiple Airlines
+Departure: 21:00, Arrival: 07:10, Cost: £259 , Brand: Multiple Airlines
+Departure: 15:40, Arrival: 23:25, Cost: £261 , Brand: Multiple Airlines
+Departure: 10:10, Arrival: 18:30, Cost: £278 , Brand: Multiple Airlines
+Departure: 23:10, Arrival: 07:40, Cost: £281 , Brand: Multiple Airlines
+Departure: 10:10, Arrival: 14:10, Cost: £282 , Brand: Multiple Airlines
+Departure: 10:10, Arrival: 14:25, Cost: £284 , Brand: Multiple Airlines
+Departure: 07:30, Arrival: 14:25, Cost: £284 , Brand: Multiple Airlines
+Departure: 10:10, Arrival: 18:25, Cost: £284 , Brand: Multiple Airlines
+AJA to LYS, 15/9
+Departure: 07:45, Arrival: 09:00, Cost: £103 , Brand: easyJet
+Departure: 15:30, Arrival: 16:40, Cost: £140 , Brand: easyJet
+Departure: 19:10, Arrival: 20:20, Cost: £178 , Brand: HOP!
+Departure: 10:55, Arrival: 14:35, Cost: £246 , Brand: HOP!
+Departure: 10:25, Arrival: 14:35, Cost: £246 , Brand: HOP!
+Departure: 06:00, Arrival: 10:15, Cost: £246 , Brand: HOP!
+Departure: 09:25, Arrival: 14:35, Cost: £246 , Brand: HOP!
+Departure: 10:25, Arrival: 16:05, Cost: £404 , Brand: Air France
+ALC to AMS, 15/9
+Departure: None, Arrival: 01:30, Cost: £50 
+Departure: None, Arrival: 00:25, Cost: £60 
+Departure: None, Arrival: 17:50, Cost: £61 
+Departure: None, Arrival: 19:55, Cost: £77 
+Departure: None, Arrival: 13:10, Cost: £79 
+Departure: None, Arrival: 13:00, Cost: £82 
+Departure: None, Arrival: 21:40, Cost: £99 
+Departure: None, Arrival: 22:20, Cost: £133 
+Departure: None, Arrival: 09:15, Cost: £134 
+Departure: None, Arrival: 18:25, Cost: £136 
+Departure: None, Arrival: 10:15, Cost: £141 
+Departure: None, Arrival: 22:20, Cost: £142 
+Departure: None, Arrival: 18:25, Cost: £145 
+Departure: None, Arrival: 17:10, Cost: £153 
+Departure: None, Arrival: 21:55, Cost: £154 
+ALC to BFS, 15/9
+Departure: None, Arrival: 16:15, Cost: £43 
+Departure: None, Arrival: 16:30, Cost: £81 
+Departure: None, Arrival: 14:40, Cost: £125 
+Departure: None, Arrival: 10:40, Cost: £125 
+Departure: None, Arrival: 12:10, Cost: £130 
+Departure: None, Arrival: 13:55, Cost: £135 
+Departure: None, Arrival: 20:15, Cost: £140 
+Departure: None, Arrival: 19:50, Cost: £147 
+Departure: None, Arrival: 13:55, Cost: £173 
+Departure: None, Arrival: 18:05, Cost: £178 
+Departure: None, Arrival: 14:25, Cost: £182 
+Departure: None, Arrival: 23:50, Cost: £184 
+Departure: None, Arrival: 20:40, Cost: £187 
+Departure: None, Arrival: 19:20, Cost: £189 
+Departure: None, Arrival: 15:00, Cost: £193 
+ALC to BRS, 15/9
+Departure: None, Arrival: 20:45, Cost: £74 
+Departure: None, Arrival: 16:10, Cost: £81 
+Departure: None, Arrival: 16:10, Cost: £91 
+Departure: None, Arrival: 20:45, Cost: £93 
+Departure: None, Arrival: 11:50, Cost: £106 
+Departure: None, Arrival: 01:15, Cost: £115 
+Departure: None, Arrival: 00:25, Cost: £140 
+Departure: None, Arrival: 22:05, Cost: £149 
+Departure: None, Arrival: 18:20, Cost: £157 
+Departure: None, Arrival: 15:20, Cost: £166 
+Departure: None, Arrival: 15:20, Cost: £166 
+Departure: None, Arrival: 21:55, Cost: £168 
+Departure: None, Arrival: 01:05, Cost: £184 
+Departure: None, Arrival: 08:50, Cost: £191 
+Departure: None, Arrival: 14:30, Cost: £192 
+ALC to BSL, 15/9
+Departure: None, Arrival: 09:50, Cost: £90 
+Departure: None, Arrival: 16:55, Cost: £116 
+Departure: None, Arrival: 16:55, Cost: £124 
+Departure: None, Arrival: 11:05, Cost: £135 
+Departure: None, Arrival: 16:15, Cost: £136 
+Departure: None, Arrival: 13:25, Cost: £140 
+Departure: None, Arrival: 13:25, Cost: £149 
+Departure: None, Arrival: 11:20, Cost: £153 
+Departure: None, Arrival: 18:35, Cost: £153 
+Departure: None, Arrival: 13:25, Cost: £165 
+Departure: None, Arrival: 13:25, Cost: £165 
+Departure: None, Arrival: 16:00, Cost: £168 
+Departure: None, Arrival: 16:25, Cost: £179 
+Departure: None, Arrival: 20:25, Cost: £194 
+Departure: None, Arrival: 20:55, Cost: £209 
+ALC to EDI, 15/9
+Departure: None, Arrival: 23:45, Cost: £70 
+Departure: None, Arrival: 10:05, Cost: £72 
+Departure: None, Arrival: 21:25, Cost: £104 
+Departure: None, Arrival: 20:45, Cost: £109 
+Departure: None, Arrival: 11:10, Cost: £122 
+Departure: None, Arrival: 20:45, Cost: £124 
+Departure: None, Arrival: 21:25, Cost: £137 
+Departure: None, Arrival: 16:35, Cost: £141 
+Departure: None, Arrival: 15:45, Cost: £148 
+Departure: None, Arrival: 15:45, Cost: £159 
+Departure: None, Arrival: 21:35, Cost: £168 
+Departure: None, Arrival: 22:05, Cost: £171 
+Departure: None, Arrival: 22:05, Cost: £171 
+Departure: None, Arrival: 22:05, Cost: £171 
+Departure: None, Arrival: 22:05, Cost: £171 
+ALC to GLA, 15/9
+Departure: 14:40, Arrival: 08:15, Cost: £71 , Brand: Ryanair
+Departure: 14:40, Arrival: 21:30, Cost: £83 , Brand: Ryanair
+Departure: 11:25, Arrival: 21:30, Cost: £102 , Brand: Ryanair
+Departure: 20:45, Arrival: 08:30, Cost: £119 , Brand: Multiple Airlines
+Departure: 14:20, Arrival: 16:30, Cost: £123 , Brand: easyJet
+Departure: 12:15, Arrival: 14:30, Cost: £129 , Brand: Jet2
+Departure: 07:00, Arrival: 13:15, Cost: £130 , Brand: Multiple Airlines
+Departure: 14:15, Arrival: 19:00, Cost: £137 , Brand: Multiple Airlines
+Departure: 23:40, Arrival: 09:05, Cost: £139 , Brand: easyJet
+Departure: 08:55, Arrival: 21:10, Cost: £139 , Brand: Multiple Airlines
+Departure: 12:20, Arrival: 00:10, Cost: £140 , Brand: Multiple Airlines
+Departure: 17:10, Arrival: 22:10, Cost: £148 , Brand: KLM
+Departure: 10:10, Arrival: 22:20, Cost: £149 , Brand: Iberia
+Departure: 10:10, Arrival: 22:20, Cost: £149 , Brand: Iberia
+Departure: 10:10, Arrival: 22:20, Cost: £149 , Brand: Iberia
+ALC to GVA, 15/9
+Departure: 20:35, Arrival: 11:30, Cost: £90 , Brand: Iberia
+Departure: 17:10, Arrival: 22:15, Cost: £115 , Brand: KLM
+Departure: 08:35, Arrival: 17:45, Cost: £122 , Brand: Vueling
+Departure: 06:00, Arrival: 11:30, Cost: £128 , Brand: Iberia
+Departure: 06:00, Arrival: 14:25, Cost: £128 , Brand: Iberia
+Departure: 23:40, Arrival: 09:15, Cost: £139 , Brand: easyJet
+Departure: 08:10, Arrival: 15:35, Cost: £144 , Brand: Multiple Airlines
+Departure: 08:35, Arrival: 10:40, Cost: £150 , Brand: easyJet
+Departure: 10:00, Arrival: 18:15, Cost: £157 , Brand: easyJet
+Departure: 10:55, Arrival: 18:15, Cost: £161 , Brand: Multiple Airlines
+Departure: 11:05, Arrival: 18:15, Cost: £162 , Brand: easyJet
+Departure: 10:10, Arrival: 14:25, Cost: £164 , Brand: Iberia
+Departure: 10:10, Arrival: 17:50, Cost: £164 , Brand: Iberia
+Departure: 09:00, Arrival: 16:30, Cost: £167 , Brand: Multiple Airlines
+Departure: 06:40, Arrival: 15:25, Cost: £167 , Brand: Multiple Airlines
+ALC to LGW, 15/9
+Departure: 08:10, Arrival: 09:50, Cost: £74 , Brand: Ryanair
+Departure: 13:20, Arrival: 19:30, Cost: £81 , Brand: Ryanair
+Departure: 10:25, Arrival: 18:20, Cost: £84 , Brand: Multiple Airlines
+Departure: 14:40, Arrival: 20:55, Cost: £87 , Brand: Ryanair
+Departure: 23:55, Arrival: 01:25, Cost: £89 , Brand: easyJet
+Departure: 10:00, Arrival: 11:40, Cost: £89 , Brand: easyJet
+Departure: 15:05, Arrival: 16:35, Cost: £90 , Brand: Norwegian
+Departure: 10:25, Arrival: 17:10, Cost: £90 , Brand: Multiple Airlines
+Departure: 11:05, Arrival: 12:45, Cost: £91 , Brand: easyJet
+Departure: 11:25, Arrival: 18:20, Cost: £94 , Brand: Ryanair
+Departure: 10:55, Arrival: 12:30, Cost: £99 , Brand: TUI
+Departure: 11:25, Arrival: 17:10, Cost: £100 , Brand: Ryanair
+Departure: 13:35, Arrival: 15:10, Cost: £105 , Brand: easyJet
+Departure: 16:30, Arrival: 18:05, Cost: £109 , Brand: easyJet
+Departure: 20:45, Arrival: 09:00, Cost: £111 , Brand: Air Europa
+What is a bot? - KAYAK
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+ALC to LTN, 15/9
+Departure: None, Arrival: 12:05, Cost: £94 
+Departure: None, Arrival: 01:10, Cost: £96 
+Departure: None, Arrival: 12:45, Cost: £96 
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+ALC to MAN, 15/9
+Departure: None, Arrival: 21:40, Cost: £78 
+Departure: None, Arrival: 22:35, Cost: £78 
+Departure: None, Arrival: 21:40, Cost: £93 
+Departure: None, Arrival: 22:35, Cost: £93 
+Departure: None, Arrival: 17:40, Cost: £105 
+Departure: None, Arrival: 19:10, Cost: £128 
+Departure: None, Arrival: 12:40, Cost: £130 
+Departure: None, Arrival: 21:30, Cost: £131 
+Departure: None, Arrival: 22:20, Cost: £131 
+Departure: None, Arrival: 19:10, Cost: £132 
+Departure: None, Arrival: 18:40, Cost: £135 
+Departure: None, Arrival: 00:15, Cost: £138 
+Departure: None, Arrival: 22:30, Cost: £145 
+Departure: None, Arrival: 22:35, Cost: £146 
+Departure: None, Arrival: 12:25, Cost: £153 
+ALC to MXP, 15/9
+Departure: 17:10, Arrival: 22:40, Cost: £130 , Brand: KLM
+Departure: 09:00, Arrival: 15:45, Cost: £157 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 13:25, Cost: £160 , Brand: Vueling
+Departure: 07:00, Arrival: 11:35, Cost: £169 , Brand: Vueling
+Departure: 08:35, Arrival: 13:25, Cost: £169 , Brand: Vueling
+Departure: 08:40, Arrival: 15:30, Cost: £173 , Brand: Air Europa
+Departure: 07:00, Arrival: 15:25, Cost: £180 , Brand: Multiple Airlines
+Departure: 15:05, Arrival: 23:00, Cost: £187 , Brand: Multiple Airlines
+Departure: 08:35, Arrival: 15:25, Cost: £190 , Brand: Multiple Airlines
+Departure: 13:35, Arrival: 23:00, Cost: £192 , Brand: easyJet
+Departure: 10:10, Arrival: 18:05, Cost: £193 , Brand: Iberia
+Departure: 10:00, Arrival: 18:20, Cost: £197 , Brand: easyJet
+Departure: 12:15, Arrival: 17:15, Cost: £198 , Brand: Air Europa
+Departure: 08:40, Arrival: 17:15, Cost: £200 , Brand: Air Europa
+Departure: 08:40, Arrival: 17:15, Cost: £200 , Brand: Air Europa
+What is a bot? - KAYAK
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+What is a bot? - KAYAK
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+ALC to TXL, 15/9
+Departure: None, Arrival: 21:15, Cost: £39 
+Departure: None, Arrival: 10:45, Cost: £78 
+Departure: None, Arrival: 20:55, Cost: £110 
+Departure: None, Arrival: 07:50, Cost: £113 
+Departure: None, Arrival: 11:40, Cost: £116 
+Departure: None, Arrival: 20:35, Cost: £117 
+Departure: None, Arrival: 19:20, Cost: £119 
+Departure: None, Arrival: 21:45, Cost: £119 
+Departure: None, Arrival: 07:45, Cost: £120 
+Departure: None, Arrival: 09:55, Cost: £120 
+Departure: None, Arrival: 11:50, Cost: £123 
+Departure: None, Arrival: 08:20, Cost: £127 
+Departure: None, Arrival: 20:25, Cost: £134 
+Departure: None, Arrival: 21:30, Cost: £137 
+Departure: None, Arrival: 12:15, Cost: £137 
+AMS to ACE, 15/9
+Departure: None, Arrival: 10:55, Cost: £98 
+Departure: None, Arrival: 10:45, Cost: £100 
+Departure: None, Arrival: 10:45, Cost: £102 
+Departure: None, Arrival: 10:40, Cost: £126 
+Departure: None, Arrival: 10:40, Cost: £127 
+Departure: None, Arrival: 19:20, Cost: £135 
+Departure: None, Arrival: 10:40, Cost: £137 
+Departure: None, Arrival: 21:15, Cost: £138 
+Departure: None, Arrival: 08:35, Cost: £141 
+Departure: None, Arrival: 10:05, Cost: £145 
+Departure: None, Arrival: 11:25, Cost: £145 
+Departure: None, Arrival: 10:05, Cost: £159 
+Departure: None, Arrival: 21:45, Cost: £162 
+Departure: None, Arrival: 19:20, Cost: £165 
+Departure: None, Arrival: 18:25, Cost: £172 
+AMS to AGP, 15/9
+Departure: None, Arrival: 20:35, Cost: £87 
+Departure: None, Arrival: 08:00, Cost: £89 
+Departure: None, Arrival: 21:30, Cost: £97 
+Departure: None, Arrival: 21:30, Cost: £99 
+Departure: None, Arrival: 08:55, Cost: £101 
+Departure: None, Arrival: 10:50, Cost: £104 
+Departure: None, Arrival: 20:10, Cost: £116 
+Departure: None, Arrival: 20:35, Cost: £120 
+Departure: None, Arrival: 19:15, Cost: £123 
+Departure: None, Arrival: 00:10, Cost: £124 
+Departure: None, Arrival: 09:00, Cost: £126 
+Departure: None, Arrival: 23:10, Cost: £129 
+Departure: None, Arrival: 20:40, Cost: £130 
+Departure: None, Arrival: 20:55, Cost: £131 
+Departure: None, Arrival: 23:00, Cost: £132 
+AMS to ALC, 15/9
+Departure: 18:35, Arrival: 10:20, Cost: £76 , Brand: Ryanair
+Departure: 09:40, Arrival: 20:40, Cost: £89 , Brand: Multiple Airlines
+Departure: 06:50, Arrival: 09:30, Cost: £104 , Brand: Transavia
+Departure: 13:50, Arrival: 16:30, Cost: £108 , Brand: Vueling
+Departure: 09:50, Arrival: 21:30, Cost: £110 , Brand: Multiple Airlines
+Departure: 17:00, Arrival: 19:40, Cost: £115 , Brand: Transavia
+Departure: 11:30, Arrival: 14:15, Cost: £118 , Brand: easyJet
+Departure: 21:45, Arrival: 10:05, Cost: £123 , Brand: Vueling
+Departure: 21:20, Arrival: 09:20, Cost: £135 , Brand: easyJet
+Departure: 21:20, Arrival: 10:40, Cost: £143 , Brand: easyJet
+Departure: 10:20, Arrival: 19:25, Cost: £151 , Brand: Vueling
+Departure: 07:05, Arrival: 19:45, Cost: £155 , Brand: easyJet
+Departure: 18:35, Arrival: 08:05, Cost: £166 , Brand: Air Europa
+Departure: 11:40, Arrival: 00:20, Cost: £209 , Brand: TAROM
+Departure: 14:50, Arrival: 19:25, Cost: £256 , Brand: SWISS
+AMS to BFS, 15/9
+Departure: None, Arrival: 10:15, Cost: £47 
+Departure: None, Arrival: 19:50, Cost: £85 
+Departure: None, Arrival: 19:25, Cost: £90 
+Departure: None, Arrival: 16:10, Cost: £101 
+Departure: None, Arrival: 13:00, Cost: £105 
+Departure: None, Arrival: 16:10, Cost: £114 
+Departure: None, Arrival: 13:10, Cost: £118 
+Departure: None, Arrival: 14:25, Cost: £123 
+Departure: None, Arrival: 16:10, Cost: £126 
+Departure: None, Arrival: 14:45, Cost: £132 
+Departure: None, Arrival: 13:25, Cost: £133 
+Departure: None, Arrival: 21:05, Cost: £137 
+Departure: None, Arrival: 16:10, Cost: £138 
+Departure: None, Arrival: 15:00, Cost: £140 
+Departure: None, Arrival: 16:30, Cost: £148 
+AMS to BOD, 15/9
+Departure: None, Arrival: 10:00, Cost: £63 
+Departure: None, Arrival: 15:45, Cost: £82 
+Departure: None, Arrival: 09:05, Cost: £92 
+Departure: None, Arrival: 20:35, Cost: £126 
+Departure: None, Arrival: 21:15, Cost: £128 
+Departure: None, Arrival: 15:10, Cost: £132 
+Departure: None, Arrival: 17:30, Cost: £135 
+Departure: None, Arrival: 13:30, Cost: £135 
+Departure: None, Arrival: 13:30, Cost: £135 
+Departure: None, Arrival: 20:05, Cost: £139 
+Departure: None, Arrival: 20:05, Cost: £140 
+Departure: None, Arrival: 16:10, Cost: £148 
+Departure: None, Arrival: 22:20, Cost: £151 
+Departure: None, Arrival: 16:05, Cost: £152 
+Departure: None, Arrival: 10:50, Cost: £167 
+AMS to BRS, 15/9
+Departure: 10:25, Arrival: 16:10, Cost: £41 , Brand: Ryanair
+Departure: 09:05, Arrival: 09:20, Cost: £58 , Brand: easyJet
+Departure: 08:35, Arrival: 08:50, Cost: £156 , Brand: KLM
+Departure: 21:45, Arrival: 21:55, Cost: £176 , Brand: KLM
+Departure: 13:00, Arrival: 13:15, Cost: £176 , Brand: KLM
+Departure: 11:55, Arrival: 16:10, Cost: £177 , Brand: Multiple Airlines
+Departure: 16:00, Arrival: 20:45, Cost: £177 , Brand: Multiple Airlines
+Departure: 16:40, Arrival: 16:55, Cost: £201 , Brand: KLM
+Departure: 08:00, Arrival: 11:40, Cost: £350 , Brand: Lufthansa
+Departure: 06:50, Arrival: 09:00, Cost: £574 , Brand: Multiple Airlines
+AMS to BSL, 15/9
+Departure: 15:05, Arrival: 16:25, Cost: £63 , Brand: easyJet
+Departure: 08:45, Arrival: 14:25, Cost: £105 , Brand: easyJet
+Departure: 16:40, Arrival: 17:55, Cost: £109 , Brand: KLM
+Departure: 12:35, Arrival: 13:50, Cost: £109 , Brand: KLM
+Departure: 20:30, Arrival: 21:45, Cost: £109 , Brand: KLM
+Departure: 12:35, Arrival: 13:50, Cost: £109 , Brand: Air France
+Departure: 16:40, Arrival: 17:55, Cost: £109 , Brand: Air France
+Departure: 20:30, Arrival: 21:45, Cost: £109 , Brand: Air France
+Departure: 08:25, Arrival: 09:45, Cost: £109 , Brand: KLM
+Departure: 08:25, Arrival: 09:45, Cost: £109 , Brand: Air France
+Departure: 13:50, Arrival: 18:35, Cost: £156 , Brand: Air France
+Departure: 06:40, Arrival: 10:25, Cost: £159 , Brand: Air France
+Departure: 07:20, Arrival: 13:05, Cost: £170 , Brand: easyJet
+Departure: 07:25, Arrival: 13:25, Cost: £178 , Brand: Vueling
+Departure: 07:25, Arrival: 13:25, Cost: £180 , Brand: Iberia
+AMS to BUD, 15/9
+Departure: 17:10, Arrival: 19:20, Cost: £71 , Brand: easyJet
+Departure: 18:55, Arrival: 23:55, Cost: £78 , Brand: Multiple Airlines
+Departure: 19:35, Arrival: 23:55, Cost: £96 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 11:35, Cost: £106 , Brand: Multiple Airlines
+Departure: 12:10, Arrival: 18:10, Cost: £110 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 14:30, Cost: £112 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 14:30, Cost: £121 , Brand: Multiple Airlines
+Departure: 07:20, Arrival: 16:00, Cost: £135 , Brand: Multiple Airlines
+Departure: 11:55, Arrival: 18:05, Cost: £142 , Brand: Finnair
+Departure: 16:45, Arrival: 00:35, Cost: £152 , Brand: Multiple Airlines
+Departure: 06:50, Arrival: 12:40, Cost: £169 , Brand: Czech Airlines
+Departure: 12:25, Arrival: 19:50, Cost: £169 , Brand: Multiple Airlines
+Departure: 13:30, Arrival: 21:00, Cost: £172 , Brand: easyJet
+Departure: 16:10, Arrival: 00:15, Cost: £195 , Brand: British Airways
+Departure: 14:50, Arrival: 23:25, Cost: £208 , Brand: Lufthansa
+Book now: AMS to CFU, 15/9
+Departure: None, Arrival: 09:45, Cost: £116 
+Departure: None, Arrival: 23:15, Cost: £131 
+Departure: None, Arrival: 22:30, Cost: £134 
+Departure: None, Arrival: 21:20, Cost: £135 
+Departure: None, Arrival: 22:20, Cost: £147 
+Departure: None, Arrival: 22:20, Cost: £153 
+Departure: None, Arrival: 04:15, Cost: £156 
+Departure: None, Arrival: 21:20, Cost: £160 
+Departure: None, Arrival: 23:05, Cost: £163 
+Departure: None, Arrival: 08:20, Cost: £169 
+Departure: None, Arrival: 14:10, Cost: £177 
+Departure: None, Arrival: 14:10, Cost: £182 
+Departure: None, Arrival: 08:20, Cost: £184 
+Departure: None, Arrival: 21:40, Cost: £195 
+Departure: None, Arrival: 22:40, Cost: £203 
+AMS to CTA, 15/9
+Departure: 07:15, Arrival: 19:15, Cost: £123 , Brand: KLM
+Departure: 14:10, Arrival: 21:30, Cost: £126 , Brand: easyJet
+Departure: 07:20, Arrival: 19:05, Cost: £129 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 19:05, Cost: £136 , Brand: Multiple Airlines
+Departure: 07:20, Arrival: 14:40, Cost: £137 , Brand: Multiple Airlines
+Departure: 07:20, Arrival: 15:45, Cost: £137 , Brand: Multiple Airlines
+Departure: 06:30, Arrival: 17:40, Cost: £139 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 21:05, Cost: £142 , Brand: Multiple Airlines
+Departure: 06:30, Arrival: 17:15, Cost: £142 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 12:00, Cost: £146 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 14:40, Cost: £146 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 12:40, Cost: £148 , Brand: Vueling
+Departure: 09:35, Arrival: 19:15, Cost: £148 , Brand: KLM
+Departure: 07:15, Arrival: 12:00, Cost: £150 , Brand: Multiple Airlines
+Departure: 07:15, Arrival: 13:45, Cost: £150 , Brand: Multiple Airlines
+AMS to DBV, 15/9
+Departure: 07:05, Arrival: 09:25, Cost: £55 , Brand: easyJet
+Departure: 10:30, Arrival: 18:50, Cost: £128 , Brand: Multiple Airlines
+Departure: 12:10, Arrival: 22:40, Cost: £131 , Brand: easyJet
+Departure: 10:20, Arrival: 17:20, Cost: £150 , Brand: airBaltic
+Departure: 14:10, Arrival: 22:40, Cost: £154 , Brand: Multiple Airlines
+Departure: 14:20, Arrival: 21:05, Cost: £158 , Brand: Multiple Airlines
+Departure: 09:25, Arrival: 13:55, Cost: £168 , Brand: SmartWings
+Departure: 10:25, Arrival: 18:10, Cost: £169 , Brand: LOT Polish Airlines
+Departure: 13:30, Arrival: 20:25, Cost: £183 , Brand: easyJet
+Departure: 06:50, Arrival: 13:55, Cost: £189 , Brand: Czech Airlines
+Departure: 15:55, Arrival: 20:25, Cost: £202 , Brand: Multiple Airlines
+Departure: 14:50, Arrival: 20:40, Cost: £217 , Brand: Multiple Airlines
+Departure: 11:10, Arrival: 20:40, Cost: £217 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 12:15, Cost: £239 , Brand: Iberia
+Departure: 12:25, Arrival: 20:40, Cost: £239 , Brand: Multiple Airlines
+AMS to EDI, 15/9
+Departure: 22:05, Arrival: 07:35, Cost: £53 , Brand: Ryanair
+Departure: 10:05, Arrival: 10:35, Cost: £82 , Brand: easyJet
+Departure: 10:25, Arrival: 15:45, Cost: £109 , Brand: Multiple Airlines
+Departure: 10:05, Arrival: 13:45, Cost: £117 , Brand: Flybe
+Departure: 07:00, Arrival: 10:25, Cost: £133 , Brand: British Airways
+Departure: 14:55, Arrival: 19:45, Cost: £149 , Brand: Flybe
+Departure: 10:25, Arrival: 13:45, Cost: £150 , Brand: Ryanair
+Departure: 18:55, Arrival: 23:15, Cost: £152 , Brand: Multiple Airlines
+Departure: 21:10, Arrival: 21:35, Cost: £171 , Brand: KLM
+Departure: 07:50, Arrival: 08:15, Cost: £171 , Brand: KLM
+Departure: 07:00, Arrival: 09:25, Cost: £173 , Brand: British Airways
+Departure: 10:50, Arrival: 16:35, Cost: £188 , Brand: Multiple Airlines
+Departure: 10:25, Arrival: 14:30, Cost: £191 , Brand: Multiple Airlines
+Departure: 16:35, Arrival: 17:00, Cost: £197 , Brand: KLM
+Departure: 10:20, Arrival: 15:10, Cost: £202 , Brand: Flybe
+AMS to FCO, 15/9
+Departure: 07:20, Arrival: 09:35, Cost: £79 , Brand: easyJet
+Departure: 07:00, Arrival: 09:15, Cost: £88 , Brand: Vueling
+Departure: 11:55, Arrival: 19:25, Cost: £106 , Brand: Iberia
+Departure: 07:00, Arrival: 09:15, Cost: £113 , Brand: Iberia
+Departure: 13:30, Arrival: 19:40, Cost: £122 , Brand: Multiple Airlines
+Departure: 09:25, Arrival: 14:00, Cost: £138 , Brand: Czech Airlines
+Departure: 09:25, Arrival: 17:20, Cost: £138 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 13:50, Cost: £148 , Brand: Multiple Airlines
+Departure: 13:40, Arrival: 19:40, Cost: £151 , Brand: Multiple Airlines
+Departure: 11:55, Arrival: 18:25, Cost: £151 , Brand: Iberia
+Departure: 12:10, Arrival: 21:45, Cost: £154 , Brand: easyJet
+Departure: 08:45, Arrival: 16:05, Cost: £160 , Brand: Multiple Airlines
+Departure: 10:20, Arrival: 20:15, Cost: £165 , Brand: Vueling
+Departure: 09:25, Arrival: 14:00, Cost: £166 , Brand: SmartWings
+Departure: 07:05, Arrival: 12:55, Cost: £169 , Brand: Multiple Airlines
+AMS to GLA, 15/9
+Departure: 22:05, Arrival: 08:15, Cost: £39 , Brand: Ryanair
+Departure: 18:35, Arrival: 21:30, Cost: £51 , Brand: Ryanair
+Departure: 14:55, Arrival: 18:40, Cost: £93 , Brand: Flybe
+Departure: 17:40, Arrival: 21:10, Cost: £115 , Brand: easyJet
+Departure: 10:05, Arrival: 13:45, Cost: £117 , Brand: Flybe
+Departure: 11:05, Arrival: 14:45, Cost: £119 , Brand: Flybe
+Departure: 09:50, Arrival: 13:55, Cost: £133 , Brand: easyJet
+Departure: 08:15, Arrival: 11:15, Cost: £138 , Brand: Multiple Airlines
+Departure: 18:55, Arrival: 23:35, Cost: £141 , Brand: Multiple Airlines
+Departure: 10:25, Arrival: 16:40, Cost: £141 , Brand: Multiple Airlines
+Departure: 14:55, Arrival: 20:20, Cost: £152 , Brand: British Airways
+Departure: 21:40, Arrival: 22:10, Cost: £154 , Brand: KLM
+Departure: 15:35, Arrival: 16:05, Cost: £177 , Brand: KLM
+Departure: 16:10, Arrival: 20:20, Cost: £190 , Brand: British Airways
+Departure: 16:10, Arrival: 22:20, Cost: £190 , Brand: British Airways
+AMS to GVA, 15/9
+Departure: None, Arrival: 08:55, Cost: £33 
+Departure: None, Arrival: 15:05, Cost: £41 
+Departure: None, Arrival: 17:50, Cost: £74 
+Departure: None, Arrival: 18:10, Cost: £103 
+Departure: None, Arrival: 15:05, Cost: £103 
+Departure: None, Arrival: 13:20, Cost: £107 
+Departure: None, Arrival: 12:05, Cost: £117 
+Departure: None, Arrival: 08:15, Cost: £128 
+Departure: None, Arrival: 13:35, Cost: £128 
+Departure: None, Arrival: 22:15, Cost: £128 
+Departure: None, Arrival: 16:30, Cost: £128 
+Departure: None, Arrival: 11:10, Cost: £128 
+Departure: None, Arrival: 18:40, Cost: £128 
+Departure: None, Arrival: 19:40, Cost: £134 
+Departure: None, Arrival: 14:20, Cost: £155 
+AMS to IBZ, 15/9
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+AMS to LGW, 15/9
+Departure: None, Arrival: 10:45, Cost: £44 
+Departure: None, Arrival: 07:20, Cost: £45 
+Departure: None, Arrival: 18:20, Cost: £45 
+Departure: None, Arrival: 08:05, Cost: £45 
+Departure: None, Arrival: 17:10, Cost: £51 
+Departure: None, Arrival: 20:55, Cost: £53 
+Departure: None, Arrival: 18:20, Cost: £53 
+Departure: None, Arrival: 20:55, Cost: £53 
+Departure: None, Arrival: 09:10, Cost: £53 
+Departure: None, Arrival: 08:05, Cost: £53 
+Departure: None, Arrival: 09:10, Cost: £53 
+Departure: None, Arrival: 21:40, Cost: £65 
+Departure: None, Arrival: 14:35, Cost: £69 
+Departure: None, Arrival: 13:45, Cost: £73 
+Departure: None, Arrival: 19:10, Cost: £73 
+AMS to LIN, 15/9
+Departure: 07:00, Arrival: 08:35, Cost: £93 , Brand: Alitalia
+Departure: 20:15, Arrival: 21:50, Cost: £119 , Brand: Alitalia
+Departure: 07:00, Arrival: 14:10, Cost: £167 , Brand: Multiple Airlines
+Departure: 07:20, Arrival: 14:10, Cost: £172 , Brand: Multiple Airlines
+Departure: 08:25, Arrival: 10:05, Cost: £212 , Brand: KLM
+Departure: 07:20, Arrival: 12:20, Cost: £212 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 21:10, Cost: £223 , Brand: Multiple Airlines
+Departure: 12:05, Arrival: 16:10, Cost: £248 , Brand: Alitalia
+Departure: 17:30, Arrival: 22:10, Cost: £248 , Brand: Alitalia
+Departure: 17:30, Arrival: 23:10, Cost: £248 , Brand: Alitalia
+Departure: 12:05, Arrival: 18:10, Cost: £248 , Brand: Alitalia
+Departure: 12:05, Arrival: 19:10, Cost: £248 , Brand: Alitalia
+Departure: 09:25, Arrival: 16:10, Cost: £252 , Brand: Multiple Airlines
+Departure: 10:30, Arrival: 16:25, Cost: £254 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 13:15, Cost: £266 , Brand: British Airways
+AMS to LIS, 15/9
+Departure: 18:35, Arrival: 06:45, Cost: £92 , Brand: Air Europa
+Departure: 16:25, Arrival: 18:30, Cost: £106 , Brand: Transavia
+Departure: 06:05, Arrival: 08:10, Cost: £106 , Brand: Transavia
+Departure: 20:55, Arrival: 22:50, Cost: £125 , Brand: KLM
+Departure: 16:45, Arrival: 20:30, Cost: £144 , Brand: TAP AIR PORTUGAL
+Departure: 16:45, Arrival: 21:30, Cost: £144 , Brand: TAP AIR PORTUGAL
+Departure: 16:45, Arrival: 22:30, Cost: £144 , Brand: TAP AIR PORTUGAL
+Departure: 08:55, Arrival: 10:55, Cost: £154 , Brand: KLM
+Departure: 07:00, Arrival: 09:00, Cost: £156 , Brand: TAP AIR PORTUGAL
+Departure: 19:40, Arrival: 21:45, Cost: £156 , Brand: TAP AIR PORTUGAL
+Departure: 21:45, Arrival: 08:15, Cost: £158 , Brand: Vueling
+Departure: 13:50, Arrival: 22:20, Cost: £160 , Brand: Air France
+Departure: 07:15, Arrival: 17:45, Cost: £160 , Brand: Air France
+Departure: 06:40, Arrival: 17:45, Cost: £160 , Brand: Air France
+Departure: 18:35, Arrival: 22:15, Cost: £161 , Brand: Multiple Airlines
+What is a bot? - KAYAK
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+AMS to LTN, 15/9
+Departure: 18:55, Arrival: 19:05, Cost: £37 , Brand: Vueling
+Departure: 07:00, Arrival: 07:10, Cost: £42 , Brand: Vueling
+Departure: 08:45, Arrival: 08:55, Cost: £50 , Brand: easyJet
+Departure: 12:10, Arrival: 12:20, Cost: £50 , Brand: easyJet
+Departure: 19:35, Arrival: 19:40, Cost: £53 , Brand: easyJet
+Departure: 14:10, Arrival: 17:15, Cost: £55 , Brand: Ryanair
+Departure: 19:45, Arrival: 23:35, Cost: £116 , Brand: Multiple Airlines
+Departure: 12:35, Arrival: 15:35, Cost: £193 , Brand: Multiple Airlines
+AMS to LYS, 15/9
+Departure: 12:47, Arrival: 20:00, Cost: £85 , Brand: SNCF
+Departure: 10:30, Arrival: 17:10, Cost: £111 , Brand: Multiple Airlines
+Departure: 10:25, Arrival: 16:25, Cost: £113 , Brand: Multiple Airlines
+Departure: 06:00, Arrival: 12:25, Cost: £116 , Brand: Multiple Airlines
+Departure: 13:50, Arrival: 19:05, Cost: £120 , Brand: Air France
+Departure: 06:00, Arrival: 12:20, Cost: £133 , Brand: Multiple Airlines
+Departure: 14:40, Arrival: 19:05, Cost: £133 , Brand: Air France
+Departure: 16:30, Arrival: 22:10, Cost: £133 , Brand: Air France
+Departure: 08:00, Arrival: 15:15, Cost: £133 , Brand: Air France
+Departure: 14:40, Arrival: 22:10, Cost: £139 , Brand: Air France
+Departure: 07:25, Arrival: 12:25, Cost: £145 , Brand: Iberia
+Departure: 07:25, Arrival: 14:10, Cost: £151 , Brand: Multiple Airlines
+Departure: 08:15, Arrival: 14:40, Cost: £159 , Brand: British Airways
+Departure: 07:25, Arrival: 12:25, Cost: £176 , Brand: Vueling
+Departure: 13:50, Arrival: 19:05, Cost: £183 , Brand: Multiple Airlines
+Departure: 21:05, Arrival: 22:40, Brand: KLM
+AMS to MAN, 15/9
+Departure: 18:35, Arrival: 21:40, Cost: £41 , Brand: Ryanair
+Departure: 18:35, Arrival: 22:35, Cost: £41 , Brand: Ryanair
+Departure: 10:20, Arrival: 10:50, Cost: £64 , Brand: Flybe
+Departure: 14:20, Arrival: 14:50, Cost: £64 , Brand: Flybe
+Departure: 18:00, Arrival: 18:30, Cost: £79 , Brand: Flybe
+Departure: 10:10, Arrival: 10:30, Cost: £81 , Brand: easyJet
+Departure: 14:10, Arrival: 19:10, Cost: £89 , Brand: Multiple Airlines
+Departure: 09:40, Arrival: 14:40, Cost: £107 , Brand: Multiple Airlines
+Departure: 12:35, Arrival: 12:55, Cost: £149 , Brand: KLM
+Departure: 15:05, Arrival: 19:50, Cost: £160 , Brand: SAS
+Departure: 16:25, Arrival: 16:45, Cost: £175 , Brand: KLM
+Departure: 07:55, Arrival: 08:15, Cost: £206 , Brand: KLM
+Departure: 07:15, Arrival: 10:25, Cost: £211 , Brand: Multiple Airlines
+Departure: 14:00, Arrival: 19:10, Cost: £213 , Brand: Aer Lingus
+Departure: 10:05, Arrival: 10:25, Cost: £243 , Brand: KLM
+AMS to MRS, 15/9
+Departure: 07:35, Arrival: 13:55, Cost: £86 , Brand: Iberia
+Departure: 11:55, Arrival: 20:20, Cost: £86 , Brand: Iberia
+Departure: 07:35, Arrival: 20:20, Cost: £86 , Brand: Iberia
+Departure: 07:05, Arrival: 22:00, Cost: £101 , Brand: easyJet
+Departure: 10:20, Arrival: 17:00, Cost: £110 , Brand: Vueling
+Departure: 21:20, Arrival: 10:50, Cost: £122 , Brand: easyJet
+Departure: 13:30, Arrival: 22:00, Cost: £128 , Brand: easyJet
+Departure: 07:15, Arrival: 11:15, Cost: £130 , Brand: Air France
+Departure: 13:50, Arrival: 19:10, Cost: £130 , Brand: Air France
+Departure: 16:30, Arrival: 23:05, Cost: £130 , Brand: Air France
+Departure: 18:55, Arrival: 10:50, Cost: £130 , Brand: easyJet
+Departure: 10:20, Arrival: 17:00, Cost: £135 , Brand: Iberia
+Departure: 07:25, Arrival: 17:00, Cost: £135 , Brand: Iberia
+Departure: 14:40, Arrival: 19:10, Cost: £151 , Brand: Air France
+Departure: 06:40, Arrival: 11:15, Cost: £151 , Brand: Air France
+AMS to MXP, 15/9
+Departure: None, Arrival: 15:15, Cost: £63 
+Departure: None, Arrival: 19:50, Cost: £75 
+Departure: None, Arrival: 10:25, Cost: £78 
+Departure: None, Arrival: 11:40, Cost: £84 
+Departure: None, Arrival: 11:40, Cost: £84 
+Departure: None, Arrival: 15:20, Cost: £86 
+Departure: None, Arrival: 11:40, Cost: £86 
+Departure: None, Arrival: 17:10, Cost: £98 
+Departure: None, Arrival: 11:40, Cost: £98 
+Departure: None, Arrival: 20:25, Cost: £109 
+Departure: None, Arrival: 10:15, Cost: £111 
+Departure: None, Arrival: 10:15, Cost: £112 
+Departure: None, Arrival: 07:50, Cost: £115 
+Departure: None, Arrival: 19:15, Cost: £116 
+Departure: None, Arrival: 10:15, Cost: £120 
+AMS to NAP, 15/9
+Departure: None, Arrival: 10:45, Cost: £91 
+Departure: None, Arrival: 17:00, Cost: £98 
+Departure: None, Arrival: 22:25, Cost: £107 
+Departure: None, Arrival: 19:20, Cost: £139 
+Departure: None, Arrival: 12:10, Cost: £148 
+Departure: None, Arrival: 14:30, Cost: £157 
+Departure: None, Arrival: 22:55, Cost: £160 
+Departure: None, Arrival: 14:05, Cost: £166 
+Departure: None, Arrival: 18:35, Cost: £169 
+Departure: None, Arrival: 18:55, Cost: £175 
+Departure: None, Arrival: 20:15, Cost: £176 
+Departure: None, Arrival: 22:50, Cost: £178 
+Departure: None, Arrival: 20:45, Cost: £179 
+Departure: None, Arrival: 10:45, Cost: £181 
+Departure: None, Arrival: 22:35, Cost: £182 
+AMS to NCE, 15/9
+Departure: 07:00, Arrival: 09:00, Cost: £41 , Brand: easyJet
+Departure: 06:35, Arrival: 08:30, Cost: £44 , Brand: Transavia
+Departure: 14:10, Arrival: 21:30, Cost: £71 , Brand: Ryanair
+Departure: 09:50, Arrival: 16:00, Cost: £116 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 21:25, Cost: £121 , Brand: Multiple Airlines
+Departure: 07:05, Arrival: 15:40, Cost: £122 , Brand: easyJet
+Departure: 13:30, Arrival: 20:55, Cost: £130 , Brand: easyJet
+Departure: 07:25, Arrival: 16:00, Cost: £132 , Brand: easyJet
+Departure: 13:50, Arrival: 22:15, Cost: £135 , Brand: Air France
+Departure: 13:30, Arrival: 19:55, Cost: £138 , Brand: easyJet
+Departure: 14:55, Arrival: 23:50, Cost: £150 , Brand: British Airways
+Departure: 10:30, Arrival: 16:30, Cost: £151 , Brand: British Airways
+Departure: 07:20, Arrival: 13:40, Cost: £151 , Brand: easyJet
+Departure: 10:20, Arrival: 16:05, Cost: £160 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 14:10, Cost: £163 , Brand: easyJet
+AMS to PMI, 15/9
+Departure: 16:45, Arrival: 19:15, Cost: £63 , Brand: easyJet
+Departure: 10:25, Arrival: 20:10, Cost: £71 , Brand: Multiple Airlines
+Departure: 10:25, Arrival: 21:15, Cost: £82 , Brand: Ryanair
+Departure: 14:10, Arrival: 23:10, Cost: £91 , Brand: Ryanair
+Departure: 13:20, Arrival: 15:45, Cost: £92 , Brand: Transavia
+Departure: 06:25, Arrival: 08:50, Cost: £92 , Brand: Transavia
+Departure: 15:45, Arrival: 18:30, Cost: £95 , Brand: Corendon Dutch
+Departure: 18:40, Arrival: 23:35, Cost: £96 , Brand: Vueling
+Departure: 18:10, Arrival: 01:55, Cost: £96 , Brand: Multiple Airlines
+Departure: 18:35, Arrival: 02:25, Cost: £96 , Brand: Multiple Airlines
+Departure: 21:45, Arrival: 07:55, Cost: £96 , Brand: Vueling
+Departure: 10:20, Arrival: 21:10, Cost: £105 , Brand: Vueling
+Departure: 06:00, Arrival: 16:55, Cost: £107 , Brand: Multiple Airlines
+Departure: 10:20, Arrival: 17:55, Cost: £110 , Brand: Vueling
+Departure: 10:20, Arrival: 18:55, Cost: £110 , Brand: Vueling
+AMS to PRG, 15/9
+Departure: None, Arrival: 19:50, Cost: £49 
+Departure: None, Arrival: 21:15, Cost: £56 
+Departure: None, Arrival: 10:55, Cost: £65 
+Departure: None, Arrival: 21:15, Cost: £71 
+Departure: None, Arrival: 10:55, Cost: £81 
+Departure: None, Arrival: 13:30, Cost: £86 
+Departure: None, Arrival: 16:35, Cost: £113 
+Departure: None, Arrival: 16:35, Cost: £121 
+Departure: None, Arrival: 15:50, Cost: £128 
+Departure: None, Arrival: 22:30, Cost: £129 
+Departure: None, Arrival: 18:50, Cost: £140 
+Departure: None, Arrival: 17:45, Cost: £147 
+Departure: None, Arrival: 12:20, Cost: £149 
+Departure: None, Arrival: 13:40, Cost: £157 
+Departure: None, Arrival: 15:45, Cost: £157 
+AMS to RHO, 15/9
+Departure: 18:10, Arrival: 22:50, Cost: £79 , Brand: Transavia
+Departure: 14:10, Arrival: 03:30, Cost: £89 , Brand: Multiple Airlines
+Departure: 18:55, Arrival: 03:30, Cost: £131 , Brand: Multiple Airlines
+Departure: 12:10, Arrival: 22:50, Cost: £131 , Brand: easyJet
+Departure: 08:45, Arrival: 22:50, Cost: £131 , Brand: easyJet
+Departure: 10:05, Arrival: 22:45, Cost: £151 , Brand: easyJet
+Departure: 13:30, Arrival: 03:30, Cost: £152 , Brand: Multiple Airlines
+Departure: 07:05, Arrival: 20:30, Cost: £155 , Brand: easyJet
+Departure: 07:05, Arrival: 22:40, Cost: £172 , Brand: Multiple Airlines
+Departure: 10:05, Arrival: 23:55, Cost: £175 , Brand: Multiple Airlines
+Departure: 10:20, Arrival: 23:45, Cost: £178 , Brand: Multiple Airlines
+Departure: 20:55, Arrival: 06:00, Cost: £182 , Brand: Multiple Airlines
+Departure: 20:55, Arrival: 09:35, Cost: £182 , Brand: Multiple Airlines
+Departure: 19:45, Arrival: 08:35, Cost: £184 , Brand: SmartWings
+Departure: 06:25, Arrival: 20:25, Cost: £185 , Brand: Multiple Airlines
+AMS to SEN, 15/9
+Departure: 10:30, Arrival: 10:30, Cost: £35 , Brand: easyJet
+Departure: 18:35, Arrival: 22:00, Cost: £58 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 18:05, Cost: £232 , Brand: Multiple Airlines
+Departure: 07:05, Arrival: 07:00, Cost: £73 , Brand: British Airways
+Departure: 10:30, Arrival: 10:45, Cost: £44 , Brand: British Airways
+Departure: 09:50, Arrival: 09:55, Cost: £48 , Brand: easyJet
+AMS to SPU, 15/9
+Departure: 14:10, Arrival: 23:20, Cost: £107 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 18:20, Cost: £153 , Brand: easyJet
+Departure: 12:10, Arrival: 18:20, Cost: £154 , Brand: easyJet
+Departure: 14:20, Arrival: 21:15, Cost: £154 , Brand: Multiple Airlines
+Departure: 15:05, Arrival: 23:05, Cost: £158 , Brand: Multiple Airlines
+Departure: 13:30, Arrival: 20:25, Cost: £177 , Brand: easyJet
+Departure: 06:00, Arrival: 13:40, Cost: £181 , Brand: Multiple Airlines
+Departure: 12:45, Arrival: 14:55, Cost: £191 , Brand: easyJet
+Departure: 09:25, Arrival: 13:55, Cost: £193 , Brand: SmartWings
+Departure: 13:30, Arrival: 21:30, Cost: £197 , Brand: Multiple Airlines
+Departure: 06:50, Arrival: 13:55, Cost: £211 , Brand: Czech Airlines
+Departure: 07:25, Arrival: 13:40, Cost: £214 , Brand: Iberia
+Departure: 07:25, Arrival: 12:35, Cost: £217 , Brand: easyJet
+Departure: 14:50, Arrival: 23:05, Cost: £226 , Brand: Multiple Airlines
+Departure: 15:15, Arrival: 23:05, Cost: £240 , Brand: Multiple Airlines
+AMS to STN, 15/9
+Departure: None, Arrival: 09:55, Cost: £38 
+Departure: None, Arrival: 21:40, Cost: £44 
+Departure: None, Arrival: 17:50, Cost: £44 
+Departure: None, Arrival: 17:45, Cost: £49 
+Departure: None, Arrival: 16:05, Cost: £213 
+Departure: None, Arrival: 16:05, Cost: £252 
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+AMS to SXF, 15/9
+Departure: 15:00, Arrival: 21:22, Cost: £133 , Brand: Deutsche Bahn
+Departure: 14:55, Arrival: 16:25, Cost: £177 , Brand: easyJet
+Departure: 09:05, Arrival: 16:15, Cost: £181 , Brand: easyJet
+Departure: 09:00, Arrival: 10:30, Cost: £198 , Brand: easyJet
+Departure: 10:20, Arrival: 15:20, Cost: £202 , Brand: Multiple Airlines
+Departure: 15:35, Arrival: 22:30, Cost: £208 , Brand: Multiple Airlines
+Departure: 07:05, Arrival: 12:15, Cost: £277 , Brand: Multiple Airlines
+Departure: 09:20, Arrival: 14:00, Cost: £423 , Brand: Multiple Airlines
+Departure: 17:05, Arrival: 23:05, Brand: easyJet
+AMS to SZG, 15/9
+Departure: None, Arrival: 10:20, Cost: £66 
+Departure: None, Arrival: 10:20, Cost: £66 
+Departure: None, Arrival: 10:20, Cost: £68 
+Departure: None, Arrival: 10:20, Cost: £80 
+Departure: None, Arrival: 10:25, Cost: £173 
+Departure: None, Arrival: 10:25, Cost: £183 
+Departure: None, Arrival: 10:25, Cost: £185 
+Departure: None, Arrival: 16:15, Cost: £188 
+Departure: None, Arrival: 09:40, Cost: £190 
+Departure: None, Arrival: 09:40, Cost: £192 
+Departure: None, Arrival: 08:05, Cost: £193 
+Departure: None, Arrival: 10:25, Cost: £196 
+Departure: None, Arrival: 08:05, Cost: £196 
+Departure: None, Arrival: 10:25, Cost: £196 
+Departure: None, Arrival: 08:05, Cost: £198 
+AMS to TFS, 15/9
+Departure: None, Arrival: 19:50, Cost: £101 
+Departure: None, Arrival: 18:05, Cost: £109 
+Departure: None, Arrival: 02:10, Cost: £146 
+Departure: None, Arrival: 00:15, Cost: £150 
+Departure: None, Arrival: 11:10, Cost: £161 
+Departure: None, Arrival: 18:30, Cost: £179 
+Departure: None, Arrival: 11:15, Cost: £180 
+Departure: None, Arrival: 15:50, Cost: £181 
+Departure: None, Arrival: 21:05, Cost: £181 
+Departure: None, Arrival: 11:15, Cost: £184 
+Departure: None, Arrival: 20:25, Cost: £186 
+Departure: None, Arrival: 10:45, Cost: £193 
+Departure: None, Arrival: 10:40, Cost: £195 
+Departure: None, Arrival: 20:25, Cost: £198 
+Departure: None, Arrival: 22:50, Cost: £202 
+AMS to TLS, 15/9
+Departure: 11:55, Arrival: 16:40, Cost: £64 , Brand: Iberia
+Departure: 07:35, Arrival: 12:55, Cost: £64 , Brand: Iberia
+Departure: 13:35, Arrival: 20:50, Cost: £101 , Brand: easyJet
+Departure: 14:20, Arrival: 21:00, Cost: £109 , Brand: Flybe
+Departure: 13:30, Arrival: 21:30, Cost: £128 , Brand: easyJet
+Departure: 07:00, Arrival: 13:15, Cost: £132 , Brand: easyJet
+Departure: 06:35, Arrival: 13:15, Cost: £132 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 21:50, Cost: £135 , Brand: easyJet
+Departure: 09:05, Arrival: 15:50, Cost: £141 , Brand: easyJet
+Departure: 13:50, Arrival: 20:00, Cost: £171 , Brand: Air France
+Departure: 14:55, Arrival: 22:10, Cost: £175 , Brand: easyJet
+Departure: 20:40, Arrival: 22:25, Cost: £182 , Brand: Air France
+Departure: 14:25, Arrival: 16:15, Cost: £182 , Brand: Air France
+Departure: 08:40, Arrival: 10:35, Cost: £182 , Brand: KLM
+Departure: 15:00, Arrival: 20:50, Cost: £185 , Brand: Multiple Airlines
+AMS to TLV, 15/9
+Departure: 06:15, Arrival: 11:45, Cost: £107 , Brand: Transavia
+Departure: 18:55, Arrival: 10:15, Cost: £120 , Brand: Multiple Airlines
+Departure: 00:35, Arrival: 14:15, Cost: £121 , Brand: Pegasus Airlines
+Departure: 22:05, Arrival: 08:40, Cost: £130 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 10:00, Cost: £131 , Brand: Multiple Airlines
+Departure: 19:35, Arrival: 10:15, Cost: £138 , Brand: Multiple Airlines
+Departure: 14:10, Arrival: 10:00, Cost: £141 , Brand: Multiple Airlines
+Departure: 17:10, Arrival: 10:20, Cost: £142 , Brand: Multiple Airlines
+Departure: 00:35, Arrival: 10:10, Cost: £148 , Brand: Pegasus Airlines
+Departure: 14:35, Arrival: 02:05, Cost: £150 , Brand: AtlasGlobal
+Departure: 07:20, Arrival: 13:15, Cost: £163 , Brand: easyJet
+Departure: 15:00, Arrival: 00:10, Cost: £168 , Brand: Pegasus Airlines
+Departure: 12:30, Arrival: 00:10, Cost: £168 , Brand: Pegasus Airlines
+Departure: 15:00, Arrival: 09:35, Cost: £168 , Brand: Pegasus Airlines
+Departure: 12:30, Arrival: 09:35, Cost: £174 , Brand: Pegasus Airlines
+AMS to VCE, 15/9
+Departure: None, Arrival: 16:05, Cost: £63 
+Departure: None, Arrival: 15:50, Cost: £128 
+Departure: None, Arrival: 14:45, Cost: £131 
+Departure: None, Arrival: 19:05, Cost: £136 
+Departure: None, Arrival: 20:50, Cost: £154 
+Departure: None, Arrival: 13:25, Cost: £156 
+Departure: None, Arrival: 13:25, Cost: £157 
+Departure: None, Arrival: 20:45, Cost: £161 
+Departure: None, Arrival: 22:20, Cost: £173 
+Departure: None, Arrival: 13:10, Cost: £180 
+Departure: None, Arrival: 11:05, Cost: £189 
+Departure: None, Arrival: 16:20, Cost: £191 
+Departure: None, Arrival: 23:50, Cost: £194 
+Departure: None, Arrival: 19:05, Cost: £212 
+Departure: None, Arrival: 23:25, Cost: £213 
+AMS to VIE, 15/9
+Departure: 07:25, Arrival: 14:20, Cost: £132 , Brand: easyJet
+Departure: 17:45, Arrival: 19:40, Cost: £158 , Brand: Austrian Airlines
+Departure: 06:00, Arrival: 13:25, Cost: £160 , Brand: Multiple Airlines
+Departure: 07:15, Arrival: 12:00, Cost: £166 , Brand: Air France
+Departure: 06:40, Arrival: 12:00, Cost: £166 , Brand: Air France
+Departure: 11:55, Arrival: 18:35, Cost: £169 , Brand: Finnair
+Departure: 14:45, Arrival: 19:30, Cost: £179 , Brand: SAS
+Departure: 07:00, Arrival: 08:55, Cost: £183 , Brand: Austrian Airlines
+Departure: 10:30, Arrival: 16:15, Cost: £183 , Brand: Multiple Airlines
+Departure: 07:25, Arrival: 13:25, Cost: £184 , Brand: Vueling
+Departure: 16:45, Arrival: 00:10, Cost: £194 , Brand: Multiple Airlines
+Departure: 20:35, Arrival: 22:15, Cost: £200 , Brand: KLM
+Departure: 14:55, Arrival: 22:30, Cost: £204 , Brand: British Airways
+Departure: 08:25, Arrival: 15:35, Cost: £209 , Brand: Multiple Airlines
+Departure: 10:20, Arrival: 16:25, Cost: £213 , Brand: Multiple Airlines
+AMS to ZRH, 15/9
+Departure: 20:00, Arrival: 21:30, Cost: £58 , Brand: SWISS
+Departure: 07:00, Arrival: 08:25, Cost: £117 , Brand: SWISS
+Departure: 09:45, Arrival: 11:10, Cost: £117 , Brand: SWISS
+Departure: 14:50, Arrival: 16:25, Cost: £117 , Brand: SWISS
+Departure: 12:10, Arrival: 13:35, Cost: £139 , Brand: KLM
+Departure: 15:15, Arrival: 16:45, Cost: £139 , Brand: KLM
+Departure: 09:40, Arrival: 11:05, Cost: £147 , Brand: KLM
+Departure: 07:05, Arrival: 08:35, Cost: £147 , Brand: KLM
+Departure: 21:00, Arrival: 22:25, Cost: £153 , Brand: KLM
+Departure: 10:45, Arrival: 17:10, Cost: £162 , Brand: Air Europa
+Departure: 10:25, Arrival: 16:50, Cost: £192 , Brand: SAS
+Departure: 15:55, Arrival: 19:30, Cost: £195 , Brand: Lufthansa
+Departure: 11:00, Arrival: 14:45, Cost: £195 , Brand: Lufthansa
+Departure: 08:55, Arrival: 12:45, Cost: £195 , Brand: Lufthansa
+Departure: 17:00, Arrival: 21:45, Cost: £195 , Brand: Lufthansa
+AOI to LGW, 15/9
+Departure: None, Arrival: 07:40, Cost: £212 
+Departure: None, Arrival: 13:30, Cost: £264 
+Departure: None, Arrival: 22:55, Cost: £270 
+Departure: None, Arrival: 11:30, Cost: £272 
+Departure: None, Arrival: 04:50, Cost: £280 
+Departure: None, Arrival: 17:50, Cost: £288 
+Departure: None, Arrival: 08:40, Cost: £291 
+Departure: None, Arrival: 20:05, Cost: £304 
+Departure: None, Arrival: 22:20, Cost: £308 
+Departure: None, Arrival: 08:05, Cost: £312 
+Departure: None, Arrival: 20:15, Cost: £329 
+Departure: None, Arrival: 07:10, Cost: £331 
+Departure: None, Arrival: 04:50, Cost: £335 
+Departure: None, Arrival: 08:20, Cost: £337 
+Departure: None, Arrival: 20:00, Cost: £339 
+AOI to TXL, 15/9
+Departure: 10:55, Arrival: 16:30, Cost: £200 , Brand: Multiple Airlines
+Departure: 18:55, Arrival: 08:45, Cost: £238 , Brand: Multiple Airlines
+Departure: 18:55, Arrival: 08:05, Cost: £240 , Brand: Multiple Airlines
+Departure: 10:15, Arrival: 21:10, Cost: £261 , Brand: Multiple Airlines
+Departure: 09:55, Arrival: 20:05, Cost: £288 , Brand: Multiple Airlines
+Departure: 09:55, Arrival: 16:05, Cost: £290 , Brand: Lufthansa
+Departure: 09:55, Arrival: 16:00, Cost: £299 , Brand: Multiple Airlines
+Departure: 10:15, Arrival: 20:50, Cost: £313 , Brand: Multiple Airlines
+Departure: 09:55, Arrival: 15:05, Cost: £343 , Brand: Lufthansa
+Departure: 06:10, Arrival: 16:05, Cost: £356 , Brand: Lufthansa
+Departure: 16:30, Arrival: 22:10, Cost: £357 , Brand: Lufthansa
+Departure: 06:10, Arrival: 18:05, Cost: £359 , Brand: Lufthansa
+Departure: 09:55, Arrival: 18:05, Cost: £362 , Brand: Lufthansa
+Departure: 06:10, Arrival: 10:05, Cost: £365 , Brand: Lufthansa
+Departure: 06:10, Arrival: 12:05, Cost: £365 , Brand: Lufthansa
+ARN to BRS, 15/9
+Departure: 08:45, Arrival: 16:10, Cost: £119 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 20:45, Cost: £119 , Brand: Multiple Airlines
+Departure: 18:05, Arrival: 09:20, Cost: £143 , Brand: Multiple Airlines
+Departure: 20:20, Arrival: 08:50, Cost: £159 , Brand: KLM
+Departure: 09:30, Arrival: 16:10, Cost: £172 , Brand: Multiple Airlines
+Departure: 09:50, Arrival: 20:45, Cost: £173 , Brand: Multiple Airlines
+Departure: 11:10, Arrival: 01:05, Cost: £189 , Brand: Multiple Airlines
+Departure: 11:10, Arrival: 18:20, Cost: £190 , Brand: Multiple Airlines
+Departure: 18:20, Arrival: 07:45, Cost: £190 , Brand: Multiple Airlines
+Departure: 16:20, Arrival: 01:05, Cost: £198 , Brand: Multiple Airlines
+Departure: 16:20, Arrival: 00:25, Cost: £202 , Brand: Multiple Airlines
+Departure: 12:45, Arrival: 23:00, Cost: £220 , Brand: Multiple Airlines
+Departure: 11:30, Arrival: 20:45, Cost: £229 , Brand: Multiple Airlines
+Departure: 11:10, Arrival: 18:05, Cost: £234 , Brand: Multiple Airlines
+Departure: 07:10, Arrival: 14:30, Cost: £239 , Brand: Multiple Airlines
+ARN to BSL, 15/9
+Departure: None, Arrival: 22:40, Cost: £40 
+Departure: None, Arrival: 21:45, Cost: £116 
+Departure: None, Arrival: 17:55, Cost: £133 
+Departure: None, Arrival: 21:45, Cost: £133 
+Departure: None, Arrival: 14:30, Cost: £141 
+Departure: None, Arrival: 13:50, Cost: £151 
+Departure: None, Arrival: 17:55, Cost: £151 
+Departure: None, Arrival: 20:50, Cost: £165 
+Departure: None, Arrival: 13:50, Cost: £173 
+Departure: None, Arrival: 17:55, Cost: £173 
+Departure: None, Arrival: 21:45, Cost: £173 
+Departure: None, Arrival: 21:45, Cost: £173 
+Departure: None, Arrival: 20:25, Cost: £174 
+Departure: None, Arrival: 16:00, Cost: £188 
+Departure: None, Arrival: 20:25, Cost: £196 
+ARN to GVA, 15/9
+Departure: 19:30, Arrival: 23:25, Cost: £72 , Brand: SWISS
+Departure: 09:50, Arrival: 14:00, Cost: £72 , Brand: SWISS
+Departure: 15:50, Arrival: 21:35, Cost: £72 , Brand: SWISS
+Departure: 09:50, Arrival: 17:10, Cost: £72 , Brand: SWISS
+Departure: 15:50, Arrival: 23:25, Cost: £72 , Brand: SWISS
+Departure: 09:50, Arrival: 18:35, Cost: £72 , Brand: SWISS
+Departure: 09:50, Arrival: 21:35, Cost: £72 , Brand: SWISS
+Departure: 19:30, Arrival: 08:25, Cost: £72 , Brand: SWISS
+Departure: 09:50, Arrival: 23:25, Cost: £72 , Brand: SWISS
+Departure: 19:30, Arrival: 10:20, Cost: £72 , Brand: SWISS
+Departure: 15:50, Arrival: 08:25, Cost: £72 , Brand: SWISS
+Departure: 14:45, Arrival: 22:05, Cost: £75 , Brand: Iberia
+Departure: 20:50, Arrival: 10:25, Cost: £89 , Brand: Multiple Airlines
+Departure: 04:50, Arrival: 12:45, Cost: £98 , Brand: Ukraine Intl Air
+Departure: 19:30, Arrival: 09:45, Cost: £112 , Brand: LOT Polish Airlines
+ARN to LTN, 15/9
+Departure: None, Arrival: 15:25, Cost: £95 
+Departure: None, Arrival: 17:15, Cost: £133 
+Departure: None, Arrival: 23:35, Cost: £156 
+Departure: None, Arrival: 07:10, Cost: £166 
+Departure: None, Arrival: 07:10, Cost: £173 
+Departure: None, Arrival: 19:05, Cost: £173 
+Departure: None, Arrival: 10:30, Cost: £176 
+Departure: None, Arrival: 10:55, Cost: £176 
+Departure: None, Arrival: 09:55, Cost: £178 
+Departure: None, Arrival: 21:20, Cost: £180 
+Departure: None, Arrival: 15:25, Cost: £181 
+Departure: None, Arrival: 15:25, Cost: £181 
+Departure: None, Arrival: 09:55, Cost: £184 
+Departure: None, Arrival: 17:15, Cost: £186 
+Departure: None, Arrival: 16:20, Cost: £190 
+ARN to MXP, 15/9
+Departure: 19:40, Arrival: 17:45, Cost: £87 , Brand: airBaltic
+Departure: 07:45, Arrival: 18:15, Cost: £133 , Brand: Turkish Airlines
+Departure: 11:30, Arrival: 23:45, Cost: £133 , Brand: Turkish Airlines
+Departure: 07:45, Arrival: 23:45, Cost: £133 , Brand: Turkish Airlines
+Departure: 20:50, Arrival: 12:00, Cost: £142 , Brand: Multiple Airlines
+Departure: 17:30, Arrival: 22:40, Cost: £151 , Brand: KLM
+Departure: 13:40, Arrival: 22:40, Cost: £151 , Brand: KLM
+Departure: 15:50, Arrival: 21:55, Cost: £152 , Brand: Multiple Airlines
+Departure: 09:50, Arrival: 21:55, Cost: £152 , Brand: Multiple Airlines
+Departure: 19:30, Arrival: 08:25, Cost: £152 , Brand: Multiple Airlines
+Departure: 19:30, Arrival: 10:30, Cost: £152 , Brand: Multiple Airlines
+Departure: 07:55, Arrival: 22:10, Cost: £165 , Brand: LOT Polish Airlines
+Departure: 19:30, Arrival: 10:00, Cost: £168 , Brand: LOT Polish Airlines
+Departure: 17:05, Arrival: 08:45, Cost: £169 , Brand: Multiple Airlines
+Departure: 09:55, Arrival: 19:40, Cost: £173 , Brand: Multiple Airlines
+ARN to TXL, 15/9
+Departure: 09:45, Arrival: 11:35, Cost: £74 , Brand: easyJet
+Departure: 06:10, Arrival: 10:10, Cost: £108 , Brand: Multiple Airlines
+Departure: 15:40, Arrival: 17:20, Cost: £121 , Brand: easyJet
+Departure: 08:55, Arrival: 13:55, Cost: £121 , Brand: airBaltic
+Departure: 15:15, Arrival: 22:00, Cost: £145 , Brand: Multiple Airlines
+Departure: 14:35, Arrival: 18:30, Cost: £155 , Brand: Finnair
+Departure: 08:30, Arrival: 12:25, Cost: £155 , Brand: Finnair
+Departure: 09:30, Arrival: 14:55, Cost: £157 , Brand: Eurowings
+Departure: 09:30, Arrival: 16:15, Cost: £165 , Brand: Multiple Airlines
+Departure: 16:50, Arrival: 22:00, Cost: £179 , Brand: Multiple Airlines
+Departure: 09:50, Arrival: 15:00, Cost: £189 , Brand: SWISS
+Departure: 15:50, Arrival: 22:15, Cost: £189 , Brand: SWISS
+Departure: 09:50, Arrival: 16:25, Cost: £189 , Brand: SWISS
+Departure: 16:35, Arrival: 20:55, Cost: £199 , Brand: Lufthansa
+Departure: 16:35, Arrival: 21:25, Cost: £199 , Brand: Lufthansa
+ATH to BRS, 15/9
+Departure: 08:20, Arrival: 16:10, Cost: £208 , Brand: Multiple Airlines
+Departure: 08:20, Arrival: 20:45, Cost: £208 , Brand: Multiple Airlines
+Departure: 10:00, Arrival: 00:55, Cost: £221 , Brand: Multiple Airlines
+Departure: 08:35, Arrival: 19:25, Cost: £228 , Brand: Multiple Airlines
+Departure: 11:30, Arrival: 20:45, Cost: £232 , Brand: Multiple Airlines
+Departure: 08:35, Arrival: 01:05, Cost: £243 , Brand: Multiple Airlines
+Departure: 20:00, Arrival: 07:45, Cost: £244 , Brand: Multiple Airlines
+Departure: 20:55, Arrival: 13:25, Cost: £245 , Brand: Multiple Airlines
+Departure: 08:25, Arrival: 01:05, Cost: £250 , Brand: Multiple Airlines
+Departure: 14:00, Arrival: 23:30, Cost: £252 , Brand: easyJet
+Departure: 20:55, Arrival: 13:25, Cost: £253 , Brand: Multiple Airlines
+Departure: 20:55, Arrival: 11:30, Cost: £255 , Brand: Multiple Airlines
+Departure: 08:15, Arrival: 19:25, Cost: £256 , Brand: Multiple Airlines
+Departure: 06:15, Arrival: 15:50, Cost: £260 , Brand: Multiple Airlines
+Departure: 20:55, Arrival: 11:30, Cost: £264 , Brand: Multiple Airlines
+ATH to BSL, 15/9
+Departure: None, Arrival: 10:15, Cost: £144 
+Departure: None, Arrival: 22:10, Cost: £169 
+Departure: None, Arrival: 14:10, Cost: £181 
+Departure: None, Arrival: 19:50, Cost: £183 
+Departure: None, Arrival: 14:10, Cost: £186 
+Departure: None, Arrival: 19:50, Cost: £208 
+Departure: None, Arrival: 08:35, Cost: £215 
+Departure: None, Arrival: 11:40, Cost: £216 
+Departure: None, Arrival: 19:50, Cost: £220 
+Departure: None, Arrival: 13:25, Cost: £222 
+Departure: None, Arrival: 13:25, Cost: £222 
+Departure: None, Arrival: 19:50, Cost: £232 
+Departure: None, Arrival: 10:40, Cost: £256 
+Departure: None, Arrival: 22:40, Cost: £259 
+Departure: None, Arrival: 11:15, Cost: £260 
+ATH to EDI, 15/9
+Departure: None, Arrival: 00:50, Cost: £171 
+Departure: None, Arrival: 09:10, Cost: £200 
+Departure: None, Arrival: 09:10, Cost: £214 
+Departure: None, Arrival: 07:35, Cost: £217 
+Departure: None, Arrival: 22:35, Cost: £218 
+Departure: None, Arrival: 07:10, Cost: £221 
+Departure: None, Arrival: 20:45, Cost: £241 
+Departure: None, Arrival: 15:40, Cost: £242 
+Departure: None, Arrival: 09:10, Cost: £243 
+Departure: None, Arrival: 16:55, Cost: £252 
+Departure: None, Arrival: 16:10, Cost: £264 
+Departure: None, Arrival: 12:55, Cost: £270 
+Departure: None, Arrival: 18:20, Cost: £270 
+Departure: None, Arrival: 23:55, Cost: £270 
+Departure: None, Arrival: 23:55, Cost: £272 
+ATH to GVA, 15/9
+Departure: 10:20, Arrival: 12:10, Cost: £143 , Brand: SWISS
+Departure: 06:35, Arrival: 13:20, Cost: £157 , Brand: Lufthansa
+Departure: 10:20, Arrival: 12:10, Cost: £165 , Brand: Aegean Airlines
+Departure: 17:20, Arrival: 19:10, Cost: £169 , Brand: SWISS
+Departure: 03:55, Arrival: 08:50, Cost: £176 , Brand: Vueling
+Departure: 02:30, Arrival: 08:50, Cost: £176 , Brand: Vueling
+Departure: 06:35, Arrival: 14:15, Cost: £177 , Brand: Lufthansa
+Departure: 06:35, Arrival: 17:10, Cost: £177 , Brand: Lufthansa
+Departure: 06:35, Arrival: 18:00, Cost: £177 , Brand: Lufthansa
+Departure: 10:10, Arrival: 21:35, Cost: £185 , Brand: Turkish Airlines
+Departure: 06:30, Arrival: 10:20, Cost: £186 , Brand: SWISS
+Departure: 06:30, Arrival: 13:10, Cost: £186 , Brand: SWISS
+Departure: 06:30, Arrival: 14:00, Cost: £186 , Brand: SWISS
+Departure: 06:30, Arrival: 17:10, Cost: £186 , Brand: SWISS
+Departure: 08:35, Arrival: 12:30, Cost: £199 , Brand: Lufthansa
+Book now: ATH to LGW, 15/9
+Departure: 05:00, Arrival: 07:00, Cost: £177 , Brand: Multiple Airlines
+Departure: 21:40, Arrival: 07:00, Cost: £185 , Brand: Multiple Airlines
+Departure: 03:55, Arrival: 08:55, Cost: £205 , Brand: Vueling
+Departure: 02:30, Arrival: 08:25, Cost: £205 , Brand: Vueling
+Departure: 02:30, Arrival: 08:55, Cost: £205 , Brand: Vueling
+Departure: 19:25, Arrival: 01:35, Cost: £206 , Brand: Multiple Airlines
+Departure: 08:20, Arrival: 18:20, Cost: £211 , Brand: Multiple Airlines
+Departure: 03:55, Arrival: 08:25, Cost: £214 , Brand: Vueling
+Departure: 08:20, Arrival: 17:10, Cost: £216 , Brand: Multiple Airlines
+Departure: 09:25, Arrival: 22:25, Cost: £218 , Brand: Multiple Airlines
+Departure: 21:05, Arrival: 22:50, Cost: £220 , Brand: easyJet
+Departure: 05:15, Arrival: 12:50, Cost: £223 , Brand: Multiple Airlines
+Departure: 03:55, Arrival: 13:10, Cost: £223 , Brand: Vueling
+Departure: 03:55, Arrival: 13:55, Cost: £223 , Brand: Vueling
+Departure: 02:30, Arrival: 13:10, Cost: £223 , Brand: Vueling
+ATH to MAN, 15/9
+Departure: 20:55, Arrival: 12:15, Cost: £132 , Brand: Multiple Airlines
+Departure: 22:55, Arrival: 12:15, Cost: £171 , Brand: Multiple Airlines
+Departure: 20:30, Arrival: 01:40, Cost: £175 , Brand: Multiple Airlines
+Departure: 19:35, Arrival: 09:05, Cost: £179 , Brand: SAS
+Departure: 05:15, Arrival: 17:40, Cost: £184 , Brand: Multiple Airlines
+Departure: 21:35, Arrival: 09:30, Cost: £186 , Brand: Multiple Airlines
+Departure: 18:40, Arrival: 22:30, Cost: £197 , Brand: Multiple Airlines
+Departure: 20:30, Arrival: 09:30, Cost: £198 , Brand: Multiple Airlines
+Departure: 08:25, Arrival: 17:40, Cost: £201 , Brand: Multiple Airlines
+Departure: 09:05, Arrival: 22:30, Cost: £204 , Brand: Multiple Airlines
+Departure: 08:20, Arrival: 21:40, Cost: £208 , Brand: Multiple Airlines
+Departure: 17:40, Arrival: 22:30, Cost: £215 , Brand: Multiple Airlines
+Departure: 21:40, Arrival: 03:15, Cost: £215 , Brand: Multiple Airlines
+Departure: 20:00, Arrival: 07:35, Cost: £217 , Brand: Multiple Airlines
+Departure: 05:15, Arrival: 12:15, Cost: £218 , Brand: Multiple Airlines
+ATH to MXP, 15/9
+Departure: 08:35, Arrival: 16:45, Cost: £160 , Brand: Multiple Airlines
+Departure: 08:25, Arrival: 16:45, Cost: £167 , Brand: Multiple Airlines
+Departure: 05:00, Arrival: 08:55, Cost: £171 , Brand: Air Serbia
+Departure: 08:35, Arrival: 18:25, Cost: £204 , Brand: Multiple Airlines
+Departure: 13:25, Arrival: 18:25, Cost: £205 , Brand: Alitalia
+Departure: 08:25, Arrival: 18:25, Cost: £212 , Brand: Multiple Airlines
+Departure: 03:55, Arrival: 09:05, Cost: £223 , Brand: Vueling
+Departure: 02:30, Arrival: 09:05, Cost: £223 , Brand: Vueling
+Departure: 12:00, Arrival: 18:25, Cost: £234 , Brand: Alitalia
+Departure: 05:55, Arrival: 14:15, Cost: £234 , Brand: Alitalia
+Departure: 14:00, Arrival: 21:50, Cost: £242 , Brand: Multiple Airlines
+Departure: 03:55, Arrival: 13:25, Cost: £242 , Brand: Vueling
+Departure: 15:45, Arrival: 23:35, Cost: £244 , Brand: Multiple Airlines
+Departure: 08:30, Arrival: 15:45, Cost: £245 , Brand: Multiple Airlines
+Departure: 09:00, Arrival: 16:45, Cost: £249 , Brand: Multiple Airlines
+ATH to NAP, 15/9
+Departure: None, Arrival: 14:45, Cost: £92 
+Departure: None, Arrival: 14:50, Cost: £185 
+Departure: None, Arrival: 18:10, Cost: £186 
+Departure: None, Arrival: 22:35, Cost: £189 
+Departure: None, Arrival: 09:55, Cost: £197 
+Departure: None, Arrival: 18:50, Cost: £198 
+Departure: None, Arrival: 18:50, Cost: £223 
+Departure: None, Arrival: 22:35, Cost: £223 
+Departure: None, Arrival: 10:40, Cost: £223 
+Departure: None, Arrival: 16:55, Cost: £230 
+Departure: None, Arrival: 16:55, Cost: £230 
+Departure: None, Arrival: 14:50, Cost: £232 
+Departure: None, Arrival: 18:40, Cost: £239 
+Departure: None, Arrival: 18:10, Cost: £243 
+Departure: None, Arrival: 18:10, Cost: £243 
+ATH to ORY, 15/9
+Departure: 08:35, Arrival: 07:50, Cost: £179 , Brand: Multiple Airlines
+Departure: 08:35, Arrival: 21:10, Cost: £184 , Brand: Multiple Airlines
+Departure: 08:25, Arrival: 21:10, Cost: £191 , Brand: Multiple Airlines
+Departure: 02:30, Arrival: 08:50, Cost: £193 , Brand: Vueling
+Departure: 02:30, Arrival: 07:50, Cost: £201 , Brand: Vueling
+Departure: 03:55, Arrival: 08:50, Cost: £202 , Brand: Vueling
+Departure: 14:00, Arrival: 21:45, Cost: £205 , Brand: easyJet
+Departure: 12:25, Arrival: 15:00, Cost: £208 , Brand: Transavia
+Departure: 19:25, Arrival: 22:00, Cost: £208 , Brand: Transavia
+Departure: 08:25, Arrival: 21:00, Cost: £208 , Brand: Multiple Airlines
+Departure: 15:45, Arrival: 21:45, Cost: £209 , Brand: Iberia
+Departure: 03:55, Arrival: 12:55, Cost: £210 , Brand: Vueling
+Departure: 02:30, Arrival: 12:55, Cost: £210 , Brand: Vueling
+Departure: 03:55, Arrival: 14:25, Cost: £210 , Brand: Vueling
+Departure: 02:30, Arrival: 14:25, Cost: £210 , Brand: Vueling
+Book now: ATH to SXF, 15/9
+Departure: 08:15, Arrival: 13:15, Cost: £136 , Brand: Multiple Airlines
+Departure: 10:00, Arrival: 09:30, Cost: £149 , Brand: Multiple Airlines
+Departure: 09:15, Arrival: 09:30, Cost: £150 , Brand: Multiple Airlines
+Departure: 21:35, Arrival: 23:35, Cost: £162 , Brand: easyJet
+Departure: 09:25, Arrival: 16:10, Cost: £185 , Brand: Pegasus Airlines
+Departure: 21:15, Arrival: 09:30, Cost: £220 , Brand: Norwegian
+Departure: 19:25, Arrival: 21:25, Cost: £222 , Brand: Ryanair
+Departure: 19:50, Arrival: 08:20, Cost: £277 , Brand: Norwegian
+Departure: 19:50, Arrival: 17:10, Cost: £289 , Brand: Norwegian
+Departure: 18:10, Arrival: 09:00, Cost: £300 , Brand: Aeroflot
+Departure: 21:05, Arrival: 23:05, Cost: £312 , Brand: easyJet
+Departure: 21:05, Arrival: 17:25, Cost: £344 , Brand: easyJet
+Departure: 00:35, Arrival: 13:15, Cost: £450 , Brand: Aeroflot
+Departure: 16:25, Arrival: 14:30, Cost: £481 , Brand: Egypt Air
+Departure: 23:55, Arrival: 14:30, Cost: £501 , Brand: Egypt Air
+ATH to TXL, 15/9
+Departure: 05:15, Arrival: 15:05, Cost: £112 , Brand: Multiple Airlines
+Departure: 08:25, Arrival: 15:05, Cost: £129 , Brand: Multiple Airlines
+Departure: 03:15, Arrival: 13:55, Cost: £132 , Brand: Aegean Airlines
+Departure: 10:10, Arrival: 18:40, Cost: £158 , Brand: Turkish Airlines
+Departure: 05:00, Arrival: 09:00, Cost: £162 , Brand: Air Serbia
+Departure: 15:30, Arrival: 17:25, Cost: £174 , Brand: Aegean Airlines
+Departure: 16:05, Arrival: 20:55, Cost: £188 , Brand: Eurowings
+Departure: 16:05, Arrival: 21:30, Cost: £188 , Brand: Eurowings
+Departure: 11:30, Arrival: 18:00, Cost: £188 , Brand: Eurowings
+Departure: 21:35, Arrival: 08:45, Cost: £192 , Brand: Multiple Airlines
+Departure: 21:35, Arrival: 08:05, Cost: £195 , Brand: Multiple Airlines
+Departure: 03:15, Arrival: 08:10, Cost: £203 , Brand: airBaltic
+Departure: 03:15, Arrival: 13:55, Cost: £203 , Brand: airBaltic
+Departure: 10:10, Arrival: 20:45, Cost: £204 , Brand: Turkish Airlines
+Departure: 11:30, Arrival: 20:05, Cost: £218 , Brand: Multiple Airlines
+AYT to LGW, 15/9
+Departure: 01:45, Arrival: 20:55, Cost: £155 , Brand: Multiple Airlines
+Departure: 22:45, Arrival: 01:15, Cost: £180 , Brand: easyJet
+Departure: 15:10, Arrival: 22:25, Cost: £181 , Brand: Multiple Airlines
+Departure: 07:40, Arrival: 22:25, Cost: £181 , Brand: Multiple Airlines
+Departure: 06:20, Arrival: 17:35, Cost: £194 , Brand: Multiple Airlines
+Departure: 11:45, Arrival: 20:55, Cost: £209 , Brand: Multiple Airlines
+Departure: 14:30, Arrival: 17:05, Cost: £213 , Brand: Thomas Cook Airlines
+Departure: 13:35, Arrival: 22:20, Cost: £228 , Brand: Multiple Airlines
+Departure: 07:45, Arrival: 22:20, Cost: £238 , Brand: Multiple Airlines
+Departure: 06:05, Arrival: 13:45, Cost: £240 , Brand: Multiple Airlines
+Departure: 08:30, Arrival: 22:20, Cost: £240 , Brand: Multiple Airlines
+Departure: 15:45, Arrival: 00:20, Cost: £245 , Brand: Multiple Airlines
+Departure: 10:00, Arrival: 17:50, Cost: £250 , Brand: Multiple Airlines
+Departure: 16:45, Arrival: 22:20, Cost: £259 , Brand: Multiple Airlines
+Departure: 06:10, Arrival: 11:15, Cost: £264 , Brand: Multiple Airlines
+AYT to LTN, 15/9
+Departure: 01:45, Arrival: 23:15, Cost: £154 , Brand: Multiple Airlines
+Departure: 09:55, Arrival: 23:35, Cost: £186 , Brand: Multiple Airlines
+Departure: 06:05, Arrival: 19:05, Cost: £201 , Brand: Multiple Airlines
+Departure: 21:00, Arrival: 11:55, Cost: £201 , Brand: SunExpress
+Departure: 06:05, Arrival: 12:20, Cost: £213 , Brand: Multiple Airlines
+Departure: 11:45, Arrival: 23:15, Cost: £217 , Brand: Multiple Airlines
+Departure: 01:40, Arrival: 12:20, Cost: £218 , Brand: Multiple Airlines
+Departure: 11:35, Arrival: 23:35, Cost: £227 , Brand: Multiple Airlines
+Departure: 06:10, Arrival: 17:20, Cost: £229 , Brand: Multiple Airlines
+Departure: 10:00, Arrival: 17:40, Cost: £230 , Brand: Multiple Airlines
+Departure: 01:40, Arrival: 10:25, Cost: £237 , Brand: Multiple Airlines
+Departure: 11:20, Arrival: 23:15, Cost: £241 , Brand: Multiple Airlines
+Departure: 11:10, Arrival: 17:40, Cost: £243 , Brand: Multiple Airlines
+Departure: 02:05, Arrival: 10:25, Cost: £247 , Brand: Multiple Airlines
+Departure: 07:25, Arrival: 17:20, Cost: £249 , Brand: Multiple Airlines
+AYT to MAN, 15/9
+Departure: None, Arrival: 04:30, Cost: £90 
+Departure: None, Arrival: 04:45, Cost: £106 
+Departure: None, Arrival: 01:15, Cost: £115 
+Departure: None, Arrival: 01:15, Cost: £121 
+Departure: None, Arrival: 00:20, Cost: £130 
+Departure: None, Arrival: 09:30, Cost: £184 
+Departure: None, Arrival: 09:30, Cost: £184 
+Departure: None, Arrival: 02:45, Cost: £279 
+Departure: None, Arrival: 09:35, Cost: £464 
+Departure: None, Arrival: 17:00, Cost: £470 
+Departure: None, Arrival: 08:30, Cost: £519 
+Departure: None, Arrival: 14:30, Cost: £668 
+Departure: None, Arrival: 09:35, Cost: £720 
+Departure: None, Arrival: 17:00, Cost: £720 
+Departure: None, Arrival: 17:00, Cost: £720 
+BCN to BFS, 15/9
+Departure: None, Arrival: 10:40, Cost: £89 
+Departure: None, Arrival: 16:15, Cost: £91 
+Departure: None, Arrival: 16:30, Cost: £97 
+Departure: None, Arrival: 12:10, Cost: £109 
+Departure: None, Arrival: 20:15, Cost: £109 
+Departure: None, Arrival: 16:15, Cost: £112 
+Departure: None, Arrival: 20:15, Cost: £113 
+Departure: None, Arrival: 12:10, Cost: £114 
+Departure: None, Arrival: 13:55, Cost: £114 
+Departure: None, Arrival: 20:15, Cost: £115 
+Departure: None, Arrival: 20:15, Cost: £119 
+Departure: None, Arrival: 13:55, Cost: £119 
+Departure: None, Arrival: 12:00, Cost: £120 
+Departure: None, Arrival: 12:10, Cost: £123 
+Departure: None, Arrival: 23:30, Cost: £123 
+BCN to BOD, 15/9
+Departure: 07:35, Arrival: 08:55, Cost: £16 , Brand: easyJet
+Departure: 08:15, Arrival: 09:30, Cost: £23 , Brand: Vueling
+Departure: 12:20, Arrival: 17:30, Cost: £139 , Brand: Air France
+Departure: 08:40, Arrival: 12:45, Cost: £152 , Brand: Multiple Airlines
+Departure: 17:55, Arrival: 22:20, Cost: £153 , Brand: Air France
+Departure: 16:05, Arrival: 20:35, Cost: £157 , Brand: Multiple Airlines
+Departure: 15:10, Arrival: 19:00, Cost: £160 , Brand: Multiple Airlines
+Departure: 06:15, Arrival: 10:50, Cost: £178 , Brand: Air France
+Departure: 13:00, Arrival: 17:40, Cost: £181 , Brand: Iberia
+Departure: 17:15, Arrival: 22:20, Cost: £191 , Brand: KLM
+Departure: 10:00, Arrival: 15:10, Cost: £192 , Brand: Multiple Airlines
+Departure: 12:05, Arrival: 16:35, Cost: £197 , Brand: Vueling
+Departure: 12:45, Arrival: 18:10, Cost: £201 , Brand: Lufthansa
+Departure: 11:05, Arrival: 16:20, Cost: £216 , Brand: KLM
+Departure: 06:40, Arrival: 12:15, Cost: £228 , Brand: easyJet
+BCN to BRS, 15/9
+Departure: None, Arrival: 20:45, Cost: £88 
+Departure: None, Arrival: 16:10, Cost: £88 
+Departure: None, Arrival: 14:30, Cost: £98 
+Departure: None, Arrival: 16:10, Cost: £100 
+Departure: None, Arrival: 16:10, Cost: £108 
+Departure: None, Arrival: 11:55, Cost: £110 
+Departure: None, Arrival: 12:10, Cost: £115 
+Departure: None, Arrival: 23:00, Cost: £116 
+Departure: None, Arrival: 23:00, Cost: £118 
+Departure: None, Arrival: 00:55, Cost: £125 
+Departure: None, Arrival: 00:25, Cost: £128 
+Departure: None, Arrival: 00:25, Cost: £134 
+Departure: None, Arrival: 18:20, Cost: £142 
+Departure: None, Arrival: 18:20, Cost: £143 
+Departure: None, Arrival: 21:55, Cost: £147 
+BCN to BSL, 15/9
+Departure: None, Arrival: 09:25, Cost: £38 
+Departure: None, Arrival: 20:25, Cost: £59 
+Departure: None, Arrival: 18:35, Cost: £66 
+Departure: None, Arrival: 18:35, Cost: £66 
+Departure: None, Arrival: 13:25, Cost: £70 
+Departure: None, Arrival: 13:25, Cost: £95 
+Departure: None, Arrival: 13:05, Cost: £97 
+Departure: None, Arrival: 13:05, Cost: £101 
+Departure: None, Arrival: 21:45, Cost: £115 
+Departure: None, Arrival: 13:50, Cost: £115 
+Departure: None, Arrival: 16:15, Cost: £127 
+Departure: None, Arrival: 15:00, Cost: £135 
+Departure: None, Arrival: 16:15, Cost: £151 
+Departure: None, Arrival: 16:25, Cost: £156 
+Departure: None, Arrival: 16:50, Cost: £165 
+BCN to CDG, 15/9
+Departure: 20:05, Arrival: 22:05, Cost: £47 , Brand: Vueling
+Departure: 07:20, Arrival: 09:20, Cost: £47 , Brand: Vueling
+Departure: 18:05, Arrival: 20:05, Cost: £66 , Brand: easyJet
+Departure: 16:25, Arrival: 18:25, Cost: £66 , Brand: Vueling
+Departure: 09:20, Arrival: 11:20, Cost: £69 , Brand: easyJet
+Departure: 13:00, Arrival: 15:05, Cost: £71 , Brand: easyJet
+Departure: 18:30, Arrival: 23:30, Cost: £98 , Brand: Iberia
+Departure: 13:00, Arrival: 23:30, Cost: £98 , Brand: Iberia
+Departure: 20:10, Arrival: 08:25, Cost: £101 , Brand: Multiple Airlines
+Departure: 06:20, Arrival: 15:10, Cost: £115 , Brand: KLM
+Departure: 13:00, Arrival: 19:55, Cost: £116 , Brand: Iberia
+Departure: 19:50, Arrival: 08:35, Cost: £118 , Brand: KLM
+Departure: 13:15, Arrival: 09:55, Cost: £120 , Brand: LOT Polish Airlines
+Departure: 12:00, Arrival: 23:30, Cost: £130 , Brand: Iberia
+Departure: 15:10, Arrival: 17:05, Cost: £133 , Brand: Air France
+BCN to GVA, 15/9
+Departure: None, Arrival: 08:50, Cost: £24 
+Departure: None, Arrival: 08:15, Cost: £40 
+Departure: None, Arrival: 11:05, Cost: £45 
+Departure: None, Arrival: 10:25, Cost: £48 
+Departure: None, Arrival: 17:45, Cost: £49 
+Departure: None, Arrival: 10:20, Cost: £62 
+Departure: None, Arrival: 21:35, Cost: £62 
+Departure: None, Arrival: 13:10, Cost: £62 
+Departure: None, Arrival: 14:00, Cost: £62 
+Departure: None, Arrival: 23:25, Cost: £62 
+Departure: None, Arrival: 17:10, Cost: £62 
+Departure: None, Arrival: 21:35, Cost: £62 
+Departure: None, Arrival: 23:25, Cost: £62 
+Departure: None, Arrival: 08:25, Cost: £62 
+Departure: None, Arrival: 08:25, Cost: £62 
+BCN to LGW, 15/9
+Departure: 07:35, Arrival: 08:55, Cost: £53 , Brand: Vueling
+Departure: 07:00, Arrival: 08:25, Cost: £53 , Brand: Vueling
+Departure: 12:35, Arrival: 13:55, Cost: £71 , Brand: Vueling
+Departure: 17:25, Arrival: 18:45, Cost: £71 , Brand: Vueling
+Departure: 11:50, Arrival: 13:10, Cost: £71 , Brand: Vueling
+Departure: 07:10, Arrival: 08:35, Cost: £73 , Brand: easyJet
+Departure: 07:35, Arrival: 08:55, Cost: £74 , Brand: Iberia
+Departure: 07:00, Arrival: 08:25, Cost: £74 , Brand: Iberia
+Departure: 10:50, Arrival: 12:15, Cost: £76 , Brand: easyJet
+Departure: 18:55, Arrival: 20:15, Cost: £81 , Brand: Vueling
+Departure: 19:35, Arrival: 20:50, Cost: £85 , Brand: British Airways
+Departure: 18:05, Arrival: 19:25, Cost: £85 , Brand: easyJet
+Departure: 12:30, Arrival: 13:50, Cost: £85 , Brand: easyJet
+Departure: 20:00, Arrival: 21:25, Cost: £85 , Brand: easyJet
+Departure: 14:45, Arrival: 16:15, Cost: £85 , Brand: easyJet
+BCN to LPL, 15/9
+Departure: None, Arrival: 21:50, Cost: £88 
+Departure: None, Arrival: 21:50, Cost: £88 
+Departure: None, Arrival: 12:35, Cost: £105 
+Departure: None, Arrival: 23:45, Cost: £107 
+Departure: None, Arrival: 01:10, Cost: £121 
+Departure: None, Arrival: 23:45, Cost: £126 
+Departure: None, Arrival: 13:00, Cost: £128 
+Departure: None, Arrival: 19:00, Cost: £136 
+Departure: None, Arrival: 21:50, Cost: £143 
+Departure: None, Arrival: 15:40, Cost: £143 
+Departure: None, Arrival: 15:25, Cost: £148 
+Departure: None, Arrival: 19:00, Cost: £150 
+Departure: None, Arrival: 17:30, Cost: £157 
+Departure: None, Arrival: 08:05, Cost: £158 
+Departure: None, Arrival: 11:55, Cost: £167 
+BCN to LTN, 15/9
+Departure: None, Arrival: 15:25, Cost: £88 
+Departure: None, Arrival: 23:15, Cost: £90 
+Departure: None, Arrival: 17:15, Cost: £102 
+Departure: None, Arrival: 15:35, Cost: £110 
+Departure: None, Arrival: 18:00, Cost: £114 
+Departure: None, Arrival: 12:15, Cost: £114 
+Departure: None, Arrival: 16:20, Cost: £118 
+Departure: None, Arrival: 17:15, Cost: £120 
+Departure: None, Arrival: 23:00, Cost: £122 
+Departure: None, Arrival: 23:35, Cost: £130 
+Departure: None, Arrival: 16:20, Cost: £130 
+Departure: None, Arrival: 11:15, Cost: £144 
+Departure: None, Arrival: 01:50, Cost: £146 
+Departure: None, Arrival: 15:35, Cost: £146 
+Departure: None, Arrival: 11:50, Cost: £147 
+BCN to LYS, 15/9
+Departure: 11:00, Arrival: 12:25, Cost: £37 , Brand: Vueling
+Departure: 10:50, Arrival: 12:20, Cost: £38 , Brand: easyJet
+Departure: 12:40, Arrival: 14:10, Cost: £43 , Brand: easyJet
+Departure: 15:10, Arrival: 19:05, Cost: £150 , Brand: Air France
+Departure: 17:55, Arrival: 22:10, Cost: £150 , Brand: Air France
+Departure: 10:05, Arrival: 15:15, Cost: £150 , Brand: Air France
+Departure: 12:20, Arrival: 19:05, Cost: £150 , Brand: Air France
+Departure: 10:50, Arrival: 17:20, Cost: £163 , Brand: easyJet
+Departure: 11:55, Arrival: 15:50, Cost: £185 , Brand: Lufthansa
+Departure: 13:45, Arrival: 19:05, Cost: £185 , Brand: Lufthansa
+Departure: 09:10, Arrival: 15:50, Cost: £185 , Brand: Lufthansa
+Departure: 07:35, Arrival: 11:30, Cost: £193 , Brand: Multiple Airlines
+Departure: 15:10, Arrival: 21:25, Cost: £195 , Brand: Vueling
+Departure: 07:55, Arrival: 12:15, Cost: £200 , Brand: Lufthansa
+Departure: 13:50, Arrival: 18:25, Cost: £203 , Brand: Lufthansa
+BCN to MXP, 15/9
+Departure: None, Arrival: 10:20, Cost: £72 
+Departure: None, Arrival: 09:05, Cost: £73 
+Departure: None, Arrival: 15:25, Cost: £84 
+Departure: None, Arrival: 13:25, Cost: £89 
+Departure: None, Arrival: 11:35, Cost: £98 
+Departure: None, Arrival: 23:30, Cost: £105 
+Departure: None, Arrival: 09:05, Cost: £109 
+Departure: None, Arrival: 22:40, Cost: £115 
+Departure: None, Arrival: 13:25, Cost: £118 
+Departure: None, Arrival: 22:40, Cost: £118 
+Departure: None, Arrival: 11:35, Cost: £127 
+Departure: None, Arrival: 17:15, Cost: £133 
+Departure: None, Arrival: 09:45, Cost: £133 
+Departure: None, Arrival: 09:45, Cost: £133 
+Departure: None, Arrival: 23:00, Cost: £136 
+BCN to NAP, 15/9
+Departure: None, Arrival: 11:25, Cost: £55 
+Departure: None, Arrival: 09:15, Cost: £65 
+Departure: None, Arrival: 12:10, Cost: £66 
+Departure: None, Arrival: 22:35, Cost: £116 
+Departure: None, Arrival: 18:50, Cost: £123 
+Departure: None, Arrival: 18:35, Cost: £136 
+Departure: None, Arrival: 22:50, Cost: £136 
+Departure: None, Arrival: 22:35, Cost: £138 
+Departure: None, Arrival: 21:15, Cost: £143 
+Departure: None, Arrival: 20:15, Cost: £150 
+Departure: None, Arrival: 22:50, Cost: £151 
+Departure: None, Arrival: 16:00, Cost: £151 
+Departure: None, Arrival: 17:55, Cost: £163 
+Departure: None, Arrival: 16:15, Cost: £167 
+Departure: None, Arrival: 14:30, Cost: £169 
+BCN to NCE, 15/9
+Departure: 07:20, Arrival: 08:40, Cost: £38 , Brand: Vueling
+Departure: 20:25, Arrival: 21:45, Cost: £56 , Brand: Vueling
+Departure: 07:20, Arrival: 08:40, Cost: £73 , Brand: Iberia
+Departure: 20:25, Arrival: 21:45, Cost: £97 , Brand: Iberia
+Departure: 06:20, Arrival: 21:00, Cost: £122 , Brand: Ryanair
+Departure: 06:40, Arrival: 16:00, Cost: £128 , Brand: easyJet
+Departure: 06:05, Arrival: 18:35, Cost: £130 , Brand: Multiple Airlines
+Departure: 12:20, Arrival: 22:15, Cost: £137 , Brand: Air France
+Departure: 12:30, Arrival: 21:00, Cost: £157 , Brand: Norwegian
+Departure: 17:15, Arrival: 22:25, Cost: £191 , Brand: KLM
+Departure: 08:00, Arrival: 17:55, Cost: £208 , Brand: Norwegian
+Departure: 11:05, Arrival: 16:15, Cost: £216 , Brand: KLM
+Departure: 13:05, Arrival: 20:05, Cost: £312 , Brand: Norwegian
+Departure: 21:00, Arrival: 11:55, Cost: £709 , Brand: Iberia
+BCN to NCL, 15/9
+Departure: None, Arrival: 22:25, Cost: £216 
+Departure: None, Arrival: 22:05, Cost: £225 
+Departure: None, Arrival: 22:05, Cost: £238 
+Departure: None, Arrival: 22:25, Cost: £246 
+Departure: None, Arrival: 22:05, Cost: £308 
+Departure: None, Arrival: 16:40, Cost: £359 
+Departure: None, Arrival: 12:05, Cost: £720 
+Departure: None, Arrival: 12:05, Cost: £1781 
+Departure: None, Arrival: 15:55, Cost: £1808 
+Departure: None, Arrival: 11:45, Cost: £1808 
+Departure: None, Arrival: 15:55, Cost: £1808 
+Departure: None, Arrival: 15:55, Cost: £1808 
+Departure: None, Arrival: 11:45, Cost: £1808 
+Departure: None, Arrival: 11:45, Cost: £1808 
+Departure: None, Arrival: 23:00, Cost: £1808 
+BCN to SEN, 15/9
+Departure: 11:00, Arrival: 18:25, Cost: £83 , Brand: Multiple Airlines
+Departure: 10:50, Arrival: 18:25, Cost: £93 , Brand: Multiple Airlines
+Departure: 12:40, Arrival: 18:25, Cost: £98 , Brand: Multiple Airlines
+Departure: 12:50, Arrival: 22:00, Cost: £104 , Brand: Multiple Airlines
+Departure: 10:20, Arrival: 22:00, Cost: £123 , Brand: Multiple Airlines
+Departure: 17:55, Arrival: 22:50, Cost: £127 , Brand: Multiple Airlines
+Departure: 15:15, Arrival: 22:50, Cost: £130 , Brand: Multiple Airlines
+Departure: 11:15, Arrival: 18:05, Cost: £144 , Brand: Multiple Airlines
+Departure: 07:40, Arrival: 16:15, Cost: £148 , Brand: Multiple Airlines
+Departure: 08:00, Arrival: 15:45, Cost: £153 , Brand: Multiple Airlines
+Departure: 06:30, Arrival: 15:45, Cost: £155 , Brand: Multiple Airlines
+Departure: 15:10, Arrival: 22:00, Cost: £160 , Brand: Multiple Airlines
+Departure: 07:00, Arrival: 15:45, Cost: £160 , Brand: Multiple Airlines
+Departure: 07:35, Arrival: 18:05, Cost: £160 , Brand: Multiple Airlines
+Departure: 12:55, Arrival: 18:05, Cost: £163 , Brand: Multiple Airlines
+BCN to SXF, 15/9
+Departure: 22:40, Arrival: 09:45, Cost: £63 , Brand: Multiple Airlines
+Departure: 08:25, Arrival: 09:30, Cost: £79 , Brand: Multiple Airlines
+Departure: 22:35, Arrival: 09:45, Cost: £80 , Brand: Ryanair
+Departure: 08:15, Arrival: 22:05, Cost: £82 , Brand: Multiple Airlines
+Departure: 09:25, Arrival: 12:15, Cost: £87 , Brand: easyJet
+Departure: 20:10, Arrival: 08:40, Cost: £90 , Brand: Multiple Airlines
+Departure: 08:10, Arrival: 09:30, Cost: £100 , Brand: Norwegian
+Departure: 11:20, Arrival: 09:30, Cost: £101 , Brand: Norwegian
+Departure: 22:35, Arrival: 12:20, Cost: £102 , Brand: Multiple Airlines
+Departure: 07:40, Arrival: 15:55, Cost: £122 , Brand: easyJet
+Departure: 09:35, Arrival: 12:25, Cost: £125 , Brand: Ryanair
+Departure: 11:15, Arrival: 21:50, Cost: £128 , Brand: Ryanair
+Departure: 09:30, Arrival: 16:15, Cost: £139 , Brand: easyJet
+Departure: 08:00, Arrival: 22:50, Cost: £139 , Brand: Multiple Airlines
+Departure: 12:30, Arrival: 08:20, Cost: £146 , Brand: Norwegian
+BDS to BSL, 15/9
+Departure: None, Arrival: 17:55, Cost: £181 
+Departure: None, Arrival: 17:55, Cost: £181 
+Departure: None, Arrival: 20:25, Cost: £189 
+Departure: None, Arrival: 20:50, Cost: £191 
+Departure: None, Arrival: 21:45, Cost: £196 
+Departure: None, Arrival: 21:45, Cost: £196 
+Departure: None, Arrival: 12:45, Cost: £203 
+Departure: None, Arrival: 16:25, Cost: £207 
+Departure: None, Arrival: 17:55, Cost: £211 
+Departure: None, Arrival: 17:55, Cost: £211 
+Departure: None, Arrival: 20:25, Cost: £211 
+Departure: None, Arrival: 20:50, Cost: £213 
+Departure: None, Arrival: 09:50, Cost: £213 
+Departure: None, Arrival: 16:25, Cost: £214 
+Departure: None, Arrival: 16:55, Cost: £227 
+BDS to GVA, 15/9
+Departure: 06:40, Arrival: 10:55, Cost: £97 , Brand: Alitalia
+Departure: 06:20, Arrival: 13:05, Cost: £137 , Brand: Multiple Airlines
+Departure: 11:30, Arrival: 17:10, Cost: £157 , Brand: Alitalia
+Departure: 08:45, Arrival: 16:30, Cost: £178 , Brand: Multiple Airlines
+Departure: 09:00, Arrival: 17:05, Cost: £178 , Brand: SWISS
+Departure: 19:10, Arrival: 23:00, Cost: £181 , Brand: Alitalia
+Departure: 15:15, Arrival: 23:00, Cost: £181 , Brand: Alitalia
+Departure: 07:30, Arrival: 13:05, Cost: £189 , Brand: Multiple Airlines
+Departure: 12:05, Arrival: 17:15, Cost: £214 , Brand: Multiple Airlines
+Departure: 20:45, Arrival: 22:45, Cost: £216 , Brand: easyJet
+Departure: 07:30, Arrival: 16:30, Cost: £221 , Brand: Multiple Airlines
+Departure: 15:10, Arrival: 23:25, Cost: £230 , Brand: Multiple Airlines
+Departure: 10:10, Arrival: 18:15, Cost: £240 , Brand: easyJet
+Departure: 14:50, Arrival: 22:15, Cost: £248 , Brand: Multiple Airlines
+Departure: 15:15, Arrival: 22:15, Cost: £251 , Brand: Multiple Airlines
+BDS to LGW, 15/9
+Departure: 06:20, Arrival: 08:05, Cost: £165 , Brand: Multiple Airlines
+Departure: 06:20, Arrival: 18:20, Cost: £171 , Brand: Multiple Airlines
+Departure: 08:45, Arrival: 17:35, Cost: £173 , Brand: Multiple Airlines
+Departure: 12:05, Arrival: 22:20, Cost: £175 , Brand: Multiple Airlines
+Departure: 10:10, Arrival: 12:05, Cost: £186 , Brand: easyJet
+Departure: 12:05, Arrival: 20:00, Cost: £187 , Brand: Multiple Airlines
+Departure: 06:20, Arrival: 15:00, Cost: £192 , Brand: Multiple Airlines
+Departure: 15:10, Arrival: 20:15, Cost: £201 , Brand: Vueling
+Departure: 15:10, Arrival: 20:15, Cost: £231 , Brand: Iberia
+Departure: 15:10, Arrival: 08:55, Cost: £280 , Brand: Iberia
+Departure: 06:40, Arrival: 16:20, Cost: £808 , Brand: Air Europa
+BDS to MXP, 15/9
+Departure: None, Arrival: 11:05, Cost: £104 
+Departure: None, Arrival: 18:25, Cost: £117 
+Departure: None, Arrival: 14:15, Cost: £117 
+Departure: None, Arrival: 14:15, Cost: £117 
+Departure: None, Arrival: 11:05, Cost: £125 
+Departure: None, Arrival: 18:25, Cost: £134 
+Departure: None, Arrival: 18:35, Cost: £140 
+Departure: None, Arrival: 21:50, Cost: £148 
+Departure: None, Arrival: 14:15, Cost: £148 
+Departure: None, Arrival: 11:05, Cost: £154 
+Departure: None, Arrival: 10:55, Cost: £155 
+Departure: None, Arrival: 15:45, Cost: £168 
+Departure: None, Arrival: 16:45, Cost: £217 
+Departure: None, Arrival: 10:20, Cost: £281 
+Departure: None, Arrival: 10:20, Cost: £302 
+Cheap Flights: Compare Flights & Flight Tickets | KAYAK
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+Departure: None
+AAR to TXL, 30/9
+Departure: 09:35, Arrival: 16:17, Cost: £151 , Brand: Deutsche Bahn
+Departure: 06:45, Arrival: 11:00, Cost: £166 , Brand: Multiple Airlines
+Departure: 14:55, Arrival: 22:00, Cost: £187 , Brand: Multiple Airlines
+Departure: 06:45, Arrival: 15:45, Cost: £206 , Brand: SAS
+Departure: 06:45, Arrival: 09:00, Cost: £217 , Brand: SAS
+Departure: 18:20, Arrival: 21:45, Cost: £217 , Brand: Multiple Airlines
+Departure: 15:50, Arrival: 21:45, Cost: £220 , Brand: Multiple Airlines
+Departure: 15:50, Arrival: 18:25, Cost: £245 , Brand: Multiple Airlines
+Departure: 10:55, Arrival: 15:45, Cost: £254 , Brand: SAS
+Departure: 06:45, Arrival: 16:00, Cost: £299 , Brand: SAS
+Departure: 06:45, Arrival: 14:00, Cost: £303 , Brand: Austrian Airlines
+Departure: 06:45, Arrival: 15:00, Cost: £303 , Brand: SWISS
+Departure: 06:45, Arrival: 16:25, Cost: £324 , Brand: SWISS
+Departure: 06:45, Arrival: 16:55, Cost: £324 , Brand: Lufthansa
+Departure: 06:45, Arrival: 16:55, Cost: £326 , Brand: Lufthansa
+Departure: 06:45, Arrival: 15:05, Brand: Lufthansa
+ABZ to GVA, 30/9
+Departure: 20:40, Arrival: 13:40, Cost: £115 , Brand: Multiple Airlines
+Departure: 20:45, Arrival: 09:10, Cost: £130 , Brand: easyJet
+Departure: 20:45, Arrival: 10:45, Cost: £130 , Brand: easyJet
+Departure: 09:35, Arrival: 16:20, Cost: £168 , Brand: easyJet
+Departure: 06:00, Arrival: 11:10, Cost: £174 , Brand: Air France
+Departure: 13:45, Arrival: 19:40, Cost: £174 , Brand: Air France
+Departure: 06:00, Arrival: 12:15, Cost: £174 , Brand: Air France
+Departure: 06:00, Arrival: 13:50, Cost: £174 , Brand: Air France
+Departure: 06:00, Arrival: 16:15, Cost: £174 , Brand: Air France
+Departure: 06:00, Arrival: 17:15, Cost: £174 , Brand: Air France
+Departure: 09:35, Arrival: 19:35, Cost: £179 , Brand: easyJet
+Departure: 09:35, Arrival: 22:50, Cost: £182 , Brand: easyJet
+Departure: 20:20, Arrival: 09:20, Cost: £186 , Brand: British Airways
+Departure: 20:20, Arrival: 12:10, Cost: £186 , Brand: British Airways
+Departure: 06:00, Arrival: 19:40, Cost: £189 , Brand: Air France
+ABZ to LGW, 30/9
+Departure: 09:35, Arrival: 11:15, Cost: £53 , Brand: easyJet
+Departure: 20:45, Arrival: 22:20, Cost: £72 , Brand: easyJet
+Departure: 09:05, Arrival: 14:25, Cost: £312 , Brand: Aer Lingus
+Departure: 17:20, Arrival: 23:45, Cost: £1290 , Brand: Multiple Airlines
+AAR to TXL, 30/9
+Departure: 09:35, Arrival: 16:17, Cost: £194 , Brand: Deutsche Bahn
+Departure: 06:45, Arrival: 15:45, Cost: £222 , Brand: SAS
+Departure: 06:45, Arrival: 09:00, Cost: £249 , Brand: SAS
+Departure: 06:45, Arrival: 16:00, Cost: £270 , Brand: SAS
+Departure: 10:55, Arrival: 15:45, Cost: £319 , Brand: SAS
+Departure: 06:45, Arrival: 14:10, Cost: £319 , Brand: SWISS
+Departure: 14:35, Arrival: 22:25, Cost: £319 , Brand: Multiple Airlines
+Departure: 06:45, Arrival: 15:00, Cost: £319 , Brand: SWISS
+Departure: 06:45, Arrival: 16:25, Cost: £330 , Brand: SWISS
+Departure: 06:45, Arrival: 14:00, Cost: £334 , Brand: Austrian Airlines
+Departure: 14:35, Arrival: 22:15, Cost: £339 , Brand: Multiple Airlines
+Departure: 14:35, Arrival: 20:55, Cost: £339 , Brand: Multiple Airlines
+Departure: 14:35, Arrival: 21:25, Cost: £339 , Brand: Multiple Airlines
+Departure: 14:35, Arrival: 21:25, Cost: £339 , Brand: Multiple Airlines
+Departure: 14:35, Arrival: 22:25, Cost: £344 , Brand: Multiple Airlines
+Departure: 10:55, Arrival: 19:25, Brand: Multiple Airlines
